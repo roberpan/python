@@ -1,0 +1,595 @@
+
+Nature 最新研究发现彩色蛋最先由恐龙孵化出来，这揭示了什么？
+
+
+邢立达
+两个世纪以来，人们一直认为鸟类蛋壳的颜色是独立出现的。
+蛋壳颜色是子宫中腺体分泌和沉积色素的结果，这种色素称为棕色素，是蛋壳外面釉质层的构成成分之一，在蛋产出前4－5h形成。当卵通过子宫部粘膜时。管腔扩大，由于子宫壁平滑肌的收缩，使卵转动，其上皮粘膜的分泌物均匀涂布在卵的表面。子宫粘膜为假复层柱状上皮，由具有纤毛的顶细胞和分泌细胞组成，顶细胞与钙的分泌有关，分泌细胞与分泌蛋壳釉质层有关，固有膜内分布有管状腺，直接开口于管腔。
+引起鸟蛋颜色千差万别的仅有三色素：胆绿素-IX、胆绿素的锌螯合物、原卟啉-IX，这些色素由红细胞在肝中的分解产物所形成。原卟啉-IX形成黄色、粉红色、浅红色、淡黄或褐色；而胆绿素及其锌螯合物形成蓝色和绿色。这三种色素按不同的比，就可形成从紫蓝色到橄榄绿的不同色。
+研究小组分析了全球18个恐龙蛋化石样本。结果表明，蛋壳上的颜色在真手盗龙类恐龙上已经存在，包括小型食肉类恐龙，如伶盗龙。这个研究结果改变了人们对于蛋壳颜色进化的理解。
+学者推断蛋壳颜色是由恐龙露天筑巢的习惯共同进化而来的。一旦恐龙在露天环境中筑巢，就会将蛋暴露给视觉类捕食者。甚至寄生虫都偏向于进化出带有伪装色及斑点图案的卵。
+
+==================================================
+
+有哪些化学知识概念已经更新或改变，但不为大众所知？
+
+
+知乎用户
+教科书内容，芳香亲核取代反应机理。以下内容来自Nature Chem. 的文章：
+<figure><img src="https://pic3.zhimg.com/50/v2-c69fec6be5a9e9be2447719af3a1704f_b.jpg" data-caption="" data-size="normal" data-rawwidth="1648" data-rawheight="472" data-default-watermark-src="https://pic2.zhimg.com/50/v2-9ece70741a4319dd754bcba4ae22e7aa_b.jpg" class="origin_image zh-lightbox-thumb" width="1648" data-original="https://pic3.zhimg.com/50/v2-c69fec6be5a9e9be2447719af3a1704f_r.jpg"></figure><br>
+就教科书上的说法，我们一直以为芳香亲核取代反应是通过加成—消除的机理，分步进行的：
+<figure><img src="https://pic4.zhimg.com/50/v2-96b653353e8e0642288946230caeb166_b.jpg" data-caption="" data-size="normal" data-rawwidth="792" data-rawheight="272" data-default-watermark-src="https://pic1.zhimg.com/50/v2-59adda1296271dd56e8ebeb220061da2_b.jpg" class="origin_image zh-lightbox-thumb" width="792" data-original="https://pic4.zhimg.com/50/v2-96b653353e8e0642288946230caeb166_r.jpg"></figure>先形成中间那个东西，名字叫Meisenheimer complex，结构如下：
+<figure><img src="https://pic2.zhimg.com/50/v2-d82c38923b13aefd772b7832bfb0385b_b.jpg" data-caption="" data-size="normal" data-rawwidth="559" data-rawheight="235" data-default-watermark-src="https://pic4.zhimg.com/50/v2-3077ab3c2a2145f8d8a96d8b1bfff401_b.jpg" class="origin_image zh-lightbox-thumb" width="559" data-original="https://pic2.zhimg.com/50/v2-d82c38923b13aefd772b7832bfb0385b_r.jpg"></figure>相当于亲核基团和底物加成的产物。对于这些Meisenheimer complex，有两个因素会让这类化合物更加稳定：1. X和Y是比较不好的离去基团，2. 苯环上有强的吸电子基团。
+<br>
+对于这类Meisenheimer complex，是有成功分离的先例的，这也是为什么一直以来人们认为芳香亲核取代反应都是按这种分步反应的机理进行。而先例里分离出来的结构，同时具备了上述两条能使得这个中间体稳定的要素。
+当不能同时满足这俩要素的时候，比如当原来芳香亲核取代的那个被进攻位点上，连接的是容易离去的基团，所对应的Meisenheimer complex就没有人成功分离过。但一直以来，即使没有成功分离中间体，人们也认为这个反应应该也是经过这种分步的方式进行的，认为只不过是中间体实在太不稳定，而没能被分离。
+<br>
+然而哈佛的Jacobson课题组的研究表明这类反应不见得都是分步进行的形成中间体的机理。他们的研究工作里选择了三个化合物作研究对象：
+<figure><img src="https://pic3.zhimg.com/50/v2-d5fbc4dc24e8e67a1d26f8eaf2b366f4_b.jpg" data-caption="" data-size="small" data-rawwidth="1171" data-rawheight="571" data-default-watermark-src="https://pic1.zhimg.com/50/v2-bcae6772dd2602116ae5f34b819d7e6d_b.jpg" class="origin_image zh-lightbox-thumb" width="1171" data-original="https://pic3.zhimg.com/50/v2-d5fbc4dc24e8e67a1d26f8eaf2b366f4_r.jpg"></figure>发生芳香亲核取代的时候，如果都按教科书里的分步反应进行的话，应该都会生成下图中间那一列的结构。
+<figure><img src="https://pic4.zhimg.com/50/v2-0ba827d9dc9ecbae7ae985d439b105e6_b.jpg" data-caption="" data-size="normal" data-rawwidth="602" data-rawheight="700" data-default-watermark-src="https://pic2.zhimg.com/50/v2-8363e03a04775b0e343df98e55034fdc_b.jpg" class="origin_image zh-lightbox-thumb" width="602" data-original="https://pic4.zhimg.com/50/v2-0ba827d9dc9ecbae7ae985d439b105e6_r.jpg"></figure>比较一下图里的Complex A, B, C，再比较下之前说的两个条件（苯环上不好的离去基团和苯环上有强的吸电子基团有利于中间体的稳定），我们会发现稳定性A&gt;C&gt;B（A和C有强吸电子基团，A的苯环上基团都不易离去）。
+这个工作后续利用核磁和DFT计算等手段对反应机理进行研究，研究结果表明对第二个化合物的话并没有Complex B那个中间体的生成，亲核基团的进攻和溴的离去是同时发生的，而不是分步进行。
+文章结论是芳香亲核取代并不都是教科书里说的分步进行，许多化合物发生芳香亲核取代反应时，并不会通过分步反应形成Meisenheimer complex再消除，而是会走类似于SN2反应那样同步进行的机理。需要具体细节的话可以去看文献原文，我就不多说了。
+<br>
+如果有人看原文的话。。其实原文里用到的那个核磁技术也不是那么新。但为啥现在才有人研究这个机理。。。可能是因为这个反应机理被写在教科书里太久了，没人注意到这个也可能有错吧。
+<br>
+参考文献：
+<ol><li><i>Nature Chem. </i><b>2018</b>, <i>10</i>, 917–923</li></ol>2. Jonathan Clayden; Nick Greeves; Stuart G Warren and Peter Wothers, <i>Organic Chemistry</i>
+
+==================================================
+
+Faker被腾讯标为英雄联盟第一人，他配得上这个称号么？
+
+
+长瓴
+请问，Faker不是第一人，放眼全球，从天赋、战绩、技术到人品，还有谁？
+<br>权以以下文字，表达六年LOL来对这个游戏中最特殊的选手的感想。（有些长，可以关注慢慢看哦）<br><b>首先，我从来就谈不上喜欢faker。</b><br>当然，我也从来不讨厌。<br><b>关于faker的敬业，faker的职业态度，faker的天赋，faker的勤奋，faker的无黑点等等，大家说得够多了。现在咱们来闲聊些只言片语。</b><br><br>LOL的赛场，彷如武林盛宴。<br>大家都知道，武林这个东西，需要各种神乎其技的武功秘籍、内功心法，和无数门派及大侠之间的故事来支撑。<br>战队即门派（或者说赛区），选手如同侠客；所擅长的英雄和打法，就是他们的武技。<br>若要类比武侠小说，大概金庸笔下的独孤求败跟faker有些类似。<br><br>我S2开始玩LOL，第一个区是班德尔城，当时是LOL开服第二天。后来转到艾欧尼亚。段位一直就卡在黄金往上，没上过白金。看过的比赛很多，记性也谈不上好。<br>在那个啦啦啦德玛西亚火爆之极，没有小树小苍苦笑等等各类专业英雄解说分析，没有起小点TOP10的时期，很多人看LOL的咨询基本就是多玩LOL站，还有已经死掉的LOL盒子首页资讯。<br><br>faker与岳伦的两个劫之战，成为那一年都让人印象深刻的终极对决。其操作反应速度之快，思路变化之多，完全碾压了后来的xpeke与dade的两次对拼，成为世界各大LOL论坛上永远的鞭尸经典。<br>faker与世无敌的“技”，大概就从那时起传入国内观众的印象里。<br><br><b>一、独孤求败的第一把剑：「凌厉刚猛，无坚不摧，弱冠前以之与河朔群雄争锋。」</b><br>faker最初登板赛场的时候，就是一把无坚不摧的宝剑。<br>其实大家并没有在正式比赛中看到过几次faker使用劫。<br>他当时几乎不玩刷子英雄和后期英雄。他玩哪一类呢：狐狸、妖姬、辛德拉、皎月。哪怕是玩酒桶，那时候也是玩输出流的。他会用无可匹敌的操作把你打到崩溃。<br>入坑晚的朋友也许不会喜欢上无状态。毕竟黑他的的段子可以排一个版面，太上皇的帽子也是随处就戴。<br>但为什么无状态在老玩家心里有很特殊的地位。<br>如果说非要有一个人来接住faker的剑。<br>整个S3时期，LPL唯有无状态一人够资格跟他过招。<br>大家永远记得无状态辛德拉塔下反杀faker狐狸，哪怕当时有一个暂停和金身。也只有OMG能和SKT7-1并肩出线，有来有回。<br>五五开这个梗为什么这么火，因为当初他是公开场合唯一一个表示能和faker五五开的。同时期没人敢这么说。事实上white做到了和faker四六开，哪怕只是四六开，在哪个年代，都是不错的发挥。<br>S3整整一个赛季，faker = 无敌。他拥有同时期最强的操作和发挥，不需要队友，不需要打团，对线期，你就被faker打崩了。可以说，那时候的faker，是剑法最锋利最写意的时期，领先同时期所有其他选手半个乃至一个身位。
+<figure><img src="https://pic3.zhimg.com/50/v2-81219909f19720b8b494d617927b95b8_b.jpg" data-rawwidth="500" data-rawheight="314" data-size="normal" data-caption="" class="origin_image zh-lightbox-thumb" width="500" data-original="https://pic3.zhimg.com/50/v2-81219909f19720b8b494d617927b95b8_r.jpg"></figure><b>杨过翻开的第二把剑：「紫薇软剑，三十岁前所用，误伤义士不祥，乃弃之深谷。」</b><br>很多人心疼过李宗伟，因为他的光芒被林丹掩盖。如果你要说到LOL界，基本可以说，所有中单都被faker的光芒掩盖。<br>“误伤义士不详”大概可以算faker的写照。<br>1.被无限鞭尸的岳伦。<br>2.被玩梗多年的white。<br>3.被吊锤到心态爆炸，最后甚至去玩打野的安掌门。<br>4.夕阳曾经是个心态很好的中单，在无状态修养期间，扛住OMG中单大旗，在联赛上要风得风要雨得雨。然而到了世界赛，最拿手最无敌的辛德拉被faker压着打，甚至到了后来被faker拿辛德拉教育“我来教你辛德拉怎么玩！”喷夕阳的人可以从百度贴吧排到猫扑。换个心态不好的，怕是要退役。<br>这些只是被他压着打的。还有更遗憾的。慢慢的，在中单圈子里，“单杀faker”成为了一种无上的荣耀和认可，成为认定你为顶级中单的通行证，也成为中单无形的桎梏。<br>pawn三场比赛单杀faker三次，有记录可查。在LPL成为EDG终极大腿，人称胖爹，佛祖。然而挤不进任何榜单前三中单。全明星人气投票没有faker一半。现在在KT替补，春季赛直接看饮水机。<br>我都连着三场单杀faker了！你还要我怎样？<br>Febivon的劫够潇洒吧？除了xpeke我就没见过这么强的欧洲中单。一套连招一秒钟切死faker潇洒走人，打得faker还手之力都没有。<br>小虎妖姬卡faker血量蓝量，上路河道追死一次，之后野区抓单搞死两次。虎帝之名响彻LPL，解说都要吹上天。<br>兮夜奥巴马流畅滑步，塔下强杀faker发条。<br>西门小鱼人预判闪现，轻松秒杀faker。<br><b>然而以上众人，都淹没在LOL的浪潮里，没有任何一人地位可以与faker相提并论，成为偶尔的谈资，成为盘点时的配菜。这个配菜是：XXX单杀过faker，而faker才是主题。</b><br>流水的faker单杀者，铁打的faker。
+<figure><img src="https://pic2.zhimg.com/50/v2-ad423b94dfc13d0f17612d164497aef7_b.jpg" data-rawwidth="870" data-rawheight="448" data-size="normal" data-caption="" class="origin_image zh-lightbox-thumb" width="870" data-original="https://pic2.zhimg.com/50/v2-ad423b94dfc13d0f17612d164497aef7_r.jpg"></figure><b>独孤求败的第三把剑：「重剑无锋，大巧不工。四十岁前恃之横行天下。」</b><br>为什么我说自己谈不上喜欢faker。原因很简单，作为一个S2就开始看比赛的人，我支持的每一支队伍，每一个中单，都被faker支配过。SKT给了整个LPL韩国阴影。不要否认，我们其实就是怕SKT，我们就是怕faker。NJW很强？被OMG3比0吊着打。SSB很强？不见得。SSG很强？RNG吊着锤。我们怕的其实不是LCK，我们很多时候怕的就是SKT和faker。<br>你可以说我输不起，你可以说我没有体育竞技包容心态。但是你要让我很喜欢一个天天打爆我赛区我支持选手的人，我觉得我好难受。<br>我对faker，应该是尊重，说夸张点是崇敬。<br>从S4时期SKT未能出线开始，大家就发现faker的操作没有这么强了。并不是他的剑钝了，也不是他的剑法慢下来了，而是剑客们长期高强度的对练和训练中，别人的剑法赶上来了。<br>有人说是文森特让杀人剑被取消的，大家会心一笑，嗤之以鼻。<br>但如果有人说faker使瑞兹这个英雄地位特别，几经修改，怕是没有人反对。<br>faker的瑞兹，是唯一一个让我觉得“大巧不工，恃之横行天下”的英雄。<br>S5总决赛，SKT VS KOO tiger。<br>史上一大悲情队伍的老虎队。<br>他们面对的，是拥有同时期最强上单marin，史上最好状态的15-1总战绩的SKT。<br>前两局比赛SKT优势领先，2比0开局，大家等待一个毫不意外的3比0，坐等举世无敌的SKT加冕第二冠。<br>因为前期SKT的失误送出前期团灭，hojin的盲僧肥到流油，加上那个冉冉升起的smeb下路一拖二剑姬。从那一场小分里smeb的剑姬一拖二反杀，当时我转过头跟基友说：又一个世界级上单要出现了。<br>KOO tiger给大家保留了一点悬念。<br>然后faker站出来，选出了瑞兹。<br>他就那么淡定的玩，那么淡定而精准可怕有序的连招。<br>他在对方F4鸟附件的一波突然发难抓到 KOO tiger的三个人。<br>他用瑞兹在中期彻底杀死了比赛，杀死了悬念。<br>像是冷静而残忍的把KOO tiger一剑捅个透心凉，然后一脚把对方的尸体踹下悬崖摔到黑暗的海浪里去：“天下第一，只有我一个。”<br><b>那一瞬间，我意识到他的可怕。</b><br><b>那一瞬间，我觉得他就是天下第一。</b><br>不甘心的KOO tiger改名换姓，满身是血，从悬崖上一步一个脚印爬回来。
+<figure><img src="https://pic2.zhimg.com/50/v2-bcca66e84c871904ae3fe7ba794ea6f6_b.jpg" data-rawwidth="540" data-rawheight="304" data-size="normal" data-caption="" class="origin_image zh-lightbox-thumb" width="540" data-original="https://pic2.zhimg.com/50/v2-bcca66e84c871904ae3fe7ba794ea6f6_r.jpg"></figure><b>独孤求败的第四把剑：「四十岁後，不滞於物，草木竹石均可为剑。」</b><br>S6的KOO tiger叫ROX tiger。<br>当时大家都知道，也许LOL史上最精彩的好戏将要上演。S6最强的两只队伍将要出现，谁赢，谁就是冠军。（选择性忽视掉了在半决赛另一头3比0干掉H2K的三星）<br>两队联手奉献了LOL7个赛季以来公认的最精彩BO5。<br>无限的套路与反套路，牵制与反牵制，各种对线的支援与反支援，资源的掠夺与保护。<br>不到最后一秒，任何解说都不敢说哪支队会赢。<br>尤其ROX tiger靠一手默契至极的赏金+寒冰体系，数次将队伍从绝境中拯救出来。并且最关键的是，<b>他们连续五场BO5，都ban掉了瑞兹。</b><br>没有了瑞兹的faker不是faker么？他当然还是。他在小组赛上用小鱼人，用炸弹人，用三只手，用沙皇。<br>至关重要的比赛里，他又掏出了S3就大杀四方的发条。<br>发条是个在历届大赛上BP率都很低的英雄，少有人选。虽有万金油之称，但过于老套的连招和笨重的跑线让她并不受职业选手青睐。<br>faker很喜欢玩发条。<br>他又掏出发条，安安静静，本本分分。标准操作，拉打牵扯。<br>然后就有了那个S6半决赛上动图重播无数次的经典极限逃生。<br>据说神超复盘今年MSI上小狗的卡莎被抓时的神级逃生后说了句：这样都没抓死，对面心态就要开始出问题了。<br>我想ROX tiger抓faker的这一波，心态估计也要出问题了。<br>faker 选了发条，faker逃生了！faker这都没死！faker大招拉到了X个。<br>恭喜SKT！！恭喜faker获得S6总系列赛MVP！！<br>回到第二段的“误伤义士不详”上来。<br>很多人说，决赛SKT VS SSG，其实faker被皇冠小压。SKT能赢，是因为bengi回来了。<br>bengi是谁？SKT的元勋打野。“the jungle”称号持有者。然而他拿不到MVP。<br>他想证明自己，转会到LPL后，跟dandy一样迷失了自己。<br>S5时期SKT拥有极强的轮换中单制，小组赛easyhoon坐镇中路。这是个号称稳如防御塔，稳定程度无人能及的中单。粉丝尊称他为“侯爷”，要求拳头为他增制沙皇冠军皮肤，并且拳头也响应了。<br>夺冠后他选择转会到LPL。<br>他说：我在SKT打得不错，但当我被换下场，faker上场时，全场都在高呼faker。这让我觉得很难受。<br>他在VG拿命carry，依然带不起队伍节奏。不知道当VG降级的时候，夜深人静的夜里，easyhoon会不会想起曾经在SKT的日日夜夜。<br>faker为人低调，并不张狂，但是<br><br><b>所有人，都被掩盖在faker的光芒里。</b><br><b>S7，他用五把加里奥抬SKT进入决赛。被3比0血洗倒在赛场上。</b><br><b>扇子妈被定住的一瞬间，仿佛时代产生了变化。</b><br><b>他佝偻在椅子上，脸上的表情如同死寂。</b><br><b>拳头拍下了那张图，用作自己的官方FB头像。</b><br><br>大家说，他不是被对手打败的，他是被队友打败的。<br>不管他是被什么打败的，那一瞬间，突然有点心疼。<br>如果bengi可以叫“the jungle”，那我faker应该叫“the mid”？或是“the one”?<br>我不喜欢他，但不妨碍他就是这个时代这个领域<b>独一无二的王。</b>
+<figure><img src="https://pic3.zhimg.com/50/v2-f92955d3cde3b61edac5cc412b128119_b.jpg" data-rawwidth="640" data-rawheight="389" data-size="normal" data-caption="" class="origin_image zh-lightbox-thumb" width="640" data-original="https://pic3.zhimg.com/50/v2-f92955d3cde3b61edac5cc412b128119_r.jpg"></figure>上面的文字来源于 <br><a href="https://www.zhihu.com/people/6cdcf878a4469ac2772355064a5028d5" class="internal">@Aegisaya</a><br> 同学的回答。<br><br><b>——————————————————————————</b><br><b>上面说了faker的强</b><br><b>但是仅仅强还是不足以代表一切。</b><br><b>爱</b><br>最近如果你看faker的直播，会发现Faker没有穿队服直播，而是换了一件外黑内蓝的外套。<br>李哥有多勤俭，衣服只穿队服，一个手机用三五年，他甚至基本不会自己买衣服穿，当时大家还在调侃李哥是不是想开了。<br>后来大家才知道这件衣服是联合国儿童基金会的纪念服，而李哥穿着它直播是给他们做宣传，随后李哥还像个孩子一样向网友展示了联合国儿童基金会赠送的手环与手链，笨拙的样子被网友调侃像个TB主播，后来问到为什么会赠送这个呢？李哥才不好意思的说，自己把十月的全部直播收入全部捐给联合国儿童基金会了。<br><br><b>友善</b><br>他直播，有队友在公屏骂人。他说:“你怎么可以骂人呢，我要屏蔽你。这里可是有小盆友在收看的直播。”
+<figure><img src="https://pic4.zhimg.com/50/v2-eb8d9e2713784985a2905f8e0ee693f2_b.jpg" data-rawwidth="623" data-rawheight="232" data-size="normal" data-caption="" class="origin_image zh-lightbox-thumb" width="623" data-original="https://pic4.zhimg.com/50/v2-eb8d9e2713784985a2905f8e0ee693f2_r.jpg"></figure><br><b>社会责任</b><br>他早些年写过一篇文章，刊登在一个著名的体育媒体上，文章中有这么几句话：<br><b>如果在未来，有孩子看到了我，想要成长为下一个Faker —— 我一定会做到最好，成为榜样。</b>”<br><br>在竞技过程中，我尝试着从不去流露感情。我也要求队友们这样做。我们保持冷静和坚韧，并尽一切努力不被冲昏头脑。<br><a href="//link.zhihu.com/?target=http%3A//lol.duowan.com/1610/341669048770.html" class=" wrap external" target="_blank" rel="nofollow noreferrer">Faker亲笔文章：不死者 Unkillable！</a><br><br><br><br><b>失败</b><br>s7鸟巢输给三星，回到韩国之后的第三天，他要照常直播的。<br>当时很多人都在等他直播，有想善意安慰的，有想恶搞推推bang的，也有想看他臭脸发脾气的等等。<br>他开始直播之后，还没进游戏就直接说，我知道这次比赛结果不好，请大家不要难过，我们会更努力的。<br><br><br><b>品质</b><br>他在面对SKT重组，LPL提供百倍薪酬的情况下留在了原队伍;<br>后来他有几千万的工资，但是他每个月只使用六十元，剩下的全部打给家里；<br>如果你有印象的话，可以记得这件衣服<b>，他穿了四年</b>，说是一次比赛中一位粉丝硬是塞给他的。
+<figure><img src="https://pic3.zhimg.com/50/v2-12200f6a5eb5a730ad26b726178cc483_b.jpg" data-rawwidth="563" data-rawheight="481" data-size="normal" data-caption="" class="origin_image zh-lightbox-thumb" width="563" data-original="https://pic3.zhimg.com/50/v2-12200f6a5eb5a730ad26b726178cc483_r.jpg"></figure>faker如果你在关注，就会知道，出去参加活动或者是吃饭基本上都是队服。<br>从S3出道到现在从他未出现过负面新闻，S4失败的时候，采访Faker他说“输了，你说什么都是借口。”<br>他不草粉不炫富，只有默默的直播和训练，训练时间规定为：中午12：00——晚上11：00点，期间有三个小时分别给吃饭休息和锻炼。Faker基本都会训练到凌晨四点。截止到S7的数据，Faker的排位时长为268.7天、6449小时。
+<figure><img src="https://pic2.zhimg.com/50/v2-1fc9997209185493a21003c14262668b_b.jpg" data-rawwidth="640" data-rawheight="302" data-size="normal" data-caption="" class="origin_image zh-lightbox-thumb" width="640" data-original="https://pic2.zhimg.com/50/v2-1fc9997209185493a21003c14262668b_r.jpg"></figure><br><br><b>这样的人，我们没有资格去骂的。</b>
+<br>
+<br>
+<br>
+<b>他是除了太阳，没有人能黑的一个神。</b>
+<b>他，成名于群神林立的时候，他是第一人。</b>
+<b>————————</b>
+我是 <a class="member_mention" href="//www.zhihu.com/people/aa5950a64b2ffd27b2886f44bfd47cc1" data-hash="aa5950a64b2ffd27b2886f44bfd47cc1" data-hovercard="p$b$aa5950a64b2ffd27b2886f44bfd47cc1">@长瓴</a> ，欢迎关注
+
+==================================================
+
+为什么突然喜欢上了朱一龙？
+
+
+歌沙
+致这世界和我的事业以最大的善意——朱一龙
+<br>
+这世间的文字，都不足以形容他的好。
+                                                          ——题记
+<br>
+老沙水平有限，写了几篇彩虹屁，就有点辞穷了。如今只是勉强写点，想让大家对他的了解更深一点，也多爱他一点。
+<br>
+没有剧更新的日子，老沙靠朱老师的老作品、广告和采访活着，今天想简单写写两个看起来毫无关系，其实大有关联的作品。
+看过的人可能已经想到放在一起说的原因。
+<br>
+（一）《贴着你的心跳》
+<br>
+早一点的《贴着你的心跳》，主题是“器官捐赠”。
+原本身强体壮、运动员出身的谢羽航，因为突发车祸脊柱断裂，生命垂危，在弥留之际，他选择将自己的器官捐献出去。
+电影不但讲述了男女主人公器官捐献的心路历程，也反应了家人亲属和社会对这一行为的看法，立意鲜明，内容也比较深刻，只是在男主还没有去世之前，已经有很多人等着他的器官的情节……
+让人唏嘘不已。
+<br>
+电影最让人心痛感动的是朱一龙饰演的谢羽航重伤住院的部分：
+死白的背景，干涸的鲜血，残破的身体，不屈的灵魂。
+剧烈的疼痛，暴起的青筋，开裂的嘴唇，颤抖的身体。
+朱老师在这里用他的每一个表情和每一个细胞，演绎出了病床上痛苦的谢羽航。
+<br>
+他的颤抖，他的拧眉，他艰难的喘息和压抑的哭声，将男主的痛苦无限放大，看得让人心疼心碎，感同身受，甚至自己的脊椎……也情不自禁疼痛起来。
+这就是一个演员用演技支撑起的真实感。
+<br>
+当男主生命垂危、已经无法拿笔写字，只能用手机艰难地打字的时候，我哭了。
+我仿佛看到朱一龙和谢羽航的灵魂重叠。
+<br>
+朱一龙演技最值得赞赏之处，不是他演得有多么像，而是戏里的他，就是人物本身。
+此刻他是谢羽航，
+是生命只剩下一口气，也想让自己的身体以另外一种方式延续善良的谢羽航。
+<br>
+（二）《胡杨的夏天》
+这部作品拍得非常好，要感谢真诚可爱的朱时茂导演，感谢剧组每一个善良的老戏骨。
+要写这部作品，有很多角度，演技、情节……不过，老沙今天不说这些。
+<br>
+当女主因为车祸，害得胡杨卖器材赔钱的时候，很多人质疑“一个知名主播居然没钱”，我也跟着奇怪。
+直到后来，女主给了我们一片沙漠之中郁郁葱葱的胡杨树林……
+<br>
+我想，此时此刻，无论大家看没看这两部作品，都已经明白它们的共同之处，不错，它们都是公益电影。
+<br>
+在生命的天平上，我们每一个人都是等重的，只是，他一直在向这个世界，致以最深切的关怀。
+<br>
+<br>
+（三）致敬
+<br>
+其实，多年来，朱老师拍了很多公益性质的作品，之前写过观后感的《鼓乐青春》就是其中之一。
+非但作品，他热衷公益事业，做了很多相关的工作，什么“绿色骑行”、“一餐饭活动”，甚至大冬天的穿着短袖做俯卧撑，等等等等。
+<br>
+今年，他又被评为芒果基金公益大使。
+荣誉降临得很突然，但绝非偶然。
+<br>
+他真的一直一直，向世界，向他的工作，向他知道的不知道的人，传递着源源不断的善意。
+<br>
+在这个瘦削的身体里，到底住着怎样的灵魂？
+十年了，他从未改变自己的理想和坚持，这种不死不休的傲骨，比钢铁更强硬；
+<br>
+但是对世人，他却展露出最深切的悲悯，用最柔软的自己，展现着源源不断的爱与关怀。
+<br>
+这样的灵魂，任何文字在他面前，都显得苍白。
+<br>
+老沙只能勉力为之：
+<br>
+以坚韧为骨，
+以剔透为魂，
+以包容为魄，
+以纯善为心。
+<br>
+这样的人，真的，值得最好的。
+<br>
+-
+<br>
+相遇是最美好的意外，
+你是转世的灵童，踏云破月而来，
+在我心上，刻上永久的名牌。
+并非是，异想天开。
+<br>
+任由世界颠倒黑白，
+你依然，像雪白。
+<br>
+我愿做一朵向阳的花，仰望着你
+盛开在你的现在，
+和未来……
+<br>
+（结尾脱衍自吴奇隆《白》）
+<br>
+                                   ——歌沙·笔
+<br>
+PS:老规矩，有不当之处，会改回会删。
+<br>
+<figure><img src="https://pic1.zhimg.com/50/v2-c9937e2eee67c7c386501a89779d3287_b.jpg" data-rawwidth="1080" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/50/v2-1ba5bfff0b1c0d63a43057012b3c54ad_b.jpg" class="origin_image zh-lightbox-thumb" width="1080" data-original="https://pic1.zhimg.com/50/v2-c9937e2eee67c7c386501a89779d3287_r.jpg"></figure>
+
+==================================================
+
+怎么做到只看动画就把日语学会？
+
+
+教日语的小慌先生
+先谈我的观点：
+①只看动画不练习，大概率是学不会的。
+②看动画学日语是积少成多·水滴石穿的过程，只看个2,3年是远远不够的。
+③光靠视听只训练了“耳朵”，没有训练到“嘴巴”。
+④看动画的过程属于泛听，解决的是零星的语感积累。
+⑤以上并不否认包括“看动画”在内的一切泛听所扮演的极其重要的作用。
+⑥泛听素材的推荐排序：<b>综艺=纪录片</b>＞电视剧=电影＞动画=新闻。
+⑦只看有日文字幕的。只有中文字幕的片子就只是看个爽而已。
+⑧字幕组不是上帝，他们的字幕有时也有错。
+<hr><h2><b>1什么叫“会”？【学以致用】——动画、影视与实际语言运用的差距</b></h2>如果你学日语的目的是为了看懂动漫，最高效直接的方法当然是【直捣黄龙】，直接看中日对照+查词典。那么你可以关掉页面，不用看以下的长篇大论了。
+<br>
+但还有很多同学，学日语今后还要用于：
+<blockquote>留学的专业课程 听讲·发表·讨论；<br>打工的具体业务 学习·处理·应变；<br>工作的专门业务 面试·培训·应对；<br>日常的人际关系 撩汉·撩妹·撩好基友……</blockquote>这些不同场景的听说读写能力，我们称之为<b>【实际语言运用】</b>。
+不光“看动画”这个问题，我觉得几乎所有人在推荐你“挑教材，听写新闻，看剧看片”的时候，脑子里都不曾思考过这些学习材料跟【实际语言运用】之间的巨大差距。
+<br>
+<b>①语音语调</b>
+<blockquote>视频来源：NHK《<a href="//link.zhihu.com/?target=https%3A//www.bilibili.com/video/av84172/" class=" wrap external" target="_blank" rel="nofollow noreferrer">声优大研究</a>》20100507，字幕来源：不详</blockquote><a class="video-box" href="//link.zhihu.com/?target=https%3A//www.zhihu.com/video/1041688189429358592" target="_blank" data-video-id="" data-video-playable="true" data-name="常人vs舞台演员vs声优 发音差别" data-poster="https://pic4.zhimg.com/v2-3d4cdfd240d7ae850792e18e4ecbb39b.jpg" data-lens-id="1041688189429358592">              <img class="thumbnail" src="https://pic4.zhimg.com/v2-3d4cdfd240d7ae850792e18e4ecbb39b.jpg"><span class="content">                <span class="title">常人vs舞台演员vs声优 发音差别<span class="z-ico-extern-gray"></span><span class="z-ico-extern-blue"></span></span>                <span class="url"><span class="z-ico-video"></span>https://www.zhihu.com/video/1041688189429358592</span>              </span>            </a>声优的语音语调，是对日语的音高起伏做出极大地夸张。
+对动画来说，观众能感受到更多感情细节；
+对现实来说，听者感受到的就是矫揉造作（学习者可能是不自觉的）。
+<br>
+<b>②词汇领域，语法表达</b>
+说是动画，题材也分好多种：
+魔法类，机战类，体育类，猫猫狗狗类，BL类，乙女类，GAL类……
+这些领域的台词，【现实语言运用】今后用得上？
+（想象今后遇到一位中二萌妹子跟我来一段gal台词…醒醒！）
+<blockquote>视频来源：《<a href="//link.zhihu.com/?target=https%3A//www.bilibili.com/bangumi/play/ep13873" class=" wrap external" target="_blank" rel="nofollow noreferrer">FATE/ZERO</a>》第24集，中字：B站原版，日字：教日语的小慌先生</blockquote><a class="video-box" href="//link.zhihu.com/?target=https%3A//www.zhihu.com/video/1041716707966033920" target="_blank" data-video-id="" data-video-playable="true" data-name="看动画学日语求婚？" data-poster="https://pic1.zhimg.com/v2-b67b259d15d70da3f2d20fd03a4f9d60.jpg" data-lens-id="1041716707966033920">              <img class="thumbnail" src="https://pic1.zhimg.com/v2-b67b259d15d70da3f2d20fd03a4f9d60.jpg"><span class="content">                <span class="title">看动画学日语求婚？<span class="z-ico-extern-gray"></span><span class="z-ico-extern-blue"></span></span>                <span class="url"><span class="z-ico-video"></span>https://www.zhihu.com/video/1041716707966033920</span>              </span>            </a>动画里角色的台词一般都趋向于夸张，带有文学性。
+对动画来说，这些台词塑造了角色性格（当然也略显脸谱化）；
+对现实来说，这些台词会让你显得浮夸（所谓的“中二病”）。
+<hr><h2><b>2怎么“看”？【熟能生巧】——技能型学习的本质一直没变</b></h2>不说看10年动画了，我们来做个实验：
+看1分钟动画，你能记住什么？
+<blockquote>视频来源：《<a href="//link.zhihu.com/?target=https%3A//www.bilibili.com/bangumi/play/ep68515" class=" wrap external" target="_blank" rel="nofollow noreferrer">Code Geass 亡国的阿基德</a>》第2集，中字：B站原版，日字：教日语的小慌先生</blockquote><a class="video-box" href="//link.zhihu.com/?target=https%3A//www.zhihu.com/video/1041865719314698240" target="_blank" data-video-id="" data-video-playable="true" data-name="看完这1分钟，你记住了什么？" data-poster="https://pic4.zhimg.com/v2-8151ac177955825b885d7dfb6cedc388.jpg" data-lens-id="1041865719314698240">              <img class="thumbnail" src="https://pic4.zhimg.com/v2-8151ac177955825b885d7dfb6cedc388.jpg"><span class="content">                <span class="title">看完这1分钟，你记住了什么？<span class="z-ico-extern-gray"></span><span class="z-ico-extern-blue"></span></span>                <span class="url"><span class="z-ico-video"></span>https://www.zhihu.com/video/1041865719314698240</span>              </span>            </a>说说看，记住了什么？
+你为什么最终记住了这些，却忘记了其他的？
+……
+抛开其他影响记忆的因素，可以简单地概括为：
+在1分钟动画里，“死ね”一词出现了10次，所以你记住了。
+<br>
+<b>①重复频率</b>
+语言类似体育、艺术、手艺，这些技能型的练习方法看似很多，本质都是“重复次数”的问题。
+刚刚我们用1分钟就让你记住一个“死ね”，看似效率很高，其实不看动画，记住这个词所需的次数也大致如此。而且，这只是刚好这部动画刚好在1分钟内集中出现了“死ね”一词的情况。
+大部分时候，同一句表达，需要你花上漫长的时间，才能“凑够”让你记住的次数。
+所以，单从【重复频率】来看，“看动画学日语”的效率其实极低。
+<br>
+<b>②语感积累（★这才是“看动画学日语”的最大优点）</b>
+还是刚刚的“死ね”，你一下子记住了<b><u>整个的意思</u></b>是“去死吧”。
+<br>
+如果是单纯只跟教材学语法的同学，他们是这么记住的：
+<blockquote>1)“死”的<b><u>动词原形</u></b>——死ぬ<br>2)表达最粗鲁的命令形式要用到动词的<u><b>命令形</b></u><br>3)“死ぬ”不以る结尾，属于<u><b>1类变形法则</b></u><br>4)<u><b>1类变形法则</b></u>的<u><b>命令形</b></u>是——把u段变成e段<br>5)“死ぬ”变<u><b>命令形</b></u>要变成“死ね”，表示最粗鲁的命令“去死吧” </blockquote>注意，这只是一个“死ね”的记法。日语中命令人家“去死吧”还可以有以下表达：
+<blockquote>死にたまえ！<br>死んでくれ！<br>死んでください！<br>死んで頂けませんか。<br>誠に恐縮でございますが、ご逝去あそばして頂ければ幸甚に存じます。(滑稽)</blockquote>是的，跟教材学语法的同学压力山大，日后还要区分这些同义句的用法和适用场合。
+<br>
+相反，
+看动画学日语，是以“整个句子（学术上叫：chunk）”为单位的学习。它
+<blockquote>包含了语调的信息，<br>包含了词汇·语法的信息，<br>包含了上下文的语境，<br>包含了谈话双方的人际关系，<br>包含了画面……</blockquote>人的大脑很擅长于处理这种高浓缩的“整块”信息。
+不只学会一个单词的中日对应，而且学会了它的使用场景，而且整个无意识的学习过程中，没有感觉到记忆的劳累。这是“看动画学日语”的最大优势，而且是纯语法教学无法弥补的优势。
+<br>
+尽管，必须强调一点，
+在这种无意识的学习过程中，只要你不查资料or听老师讲解，你很大概率还是不会意识·学习到以下语法信息：“死ね”是这个词最粗鲁的命令形式。
+<hr><h2>3看“什么”动画？【对症下药】抛开兴趣因素，动画绝不是最佳学习素材</h2>有人可能建议把动画暂停下来做各种练习，那就变成“有意识地学习”而不是“无意识地看”。<br> 如果你看动画不是出于兴趣上看着玩，而是把它当作“有意识学习”的素材，那么你必然要筛选出符合【学以致用】原则的动画素材。
+我们扩大到动画以外的所有视听素材一起分了4档。请记住这个排序：
+<blockquote><b>推荐：综艺、纪录片</b><br><b>还行：电视剧、电影</b><br><b>勉强：动画、新闻</b><br><b>有害：传统日语教材</b></blockquote><br>
+动画，因为在第1大节分析过的与【实际语言运用】的各种差距，我们认为大部分只能说勉强适合学习。但其实，这只是笼统的划分。在第1大节我们提到动画分很多题材，而且具体到某个动画片段也需要具体问题具体分析，不能一概而论：
+<br>
+<b>有些像“传统日语教材”的动画片段（充满反人类尬聊，有害）</b>
+<blockquote>视频来源：NHK WORLD《<a href="//link.zhihu.com/?target=https%3A//www.nhk.or.jp/lesson/chinese/learn/list/5.html" class=" wrap external" target="_blank" rel="nofollow noreferrer">简明日语</a>》第5课，字幕：教日语的小慌先生</blockquote><a class="video-box" href="//link.zhihu.com/?target=https%3A//www.zhihu.com/video/1041940096228077568" target="_blank" data-video-id="" data-video-playable="true" data-name="日语教材式尬聊" data-poster="https://pic1.zhimg.com/80/v2-e359ff5303081ccdebd8a3045968bad0_b.jpg" data-lens-id="1041940096228077568">              <img class="thumbnail" src="https://pic1.zhimg.com/80/v2-e359ff5303081ccdebd8a3045968bad0_b.jpg"><span class="content">                <span class="title">日语教材式尬聊<span class="z-ico-extern-gray"></span><span class="z-ico-extern-blue"></span></span>                <span class="url"><span class="z-ico-video"></span>https://www.zhihu.com/video/1041940096228077568</span>              </span>            </a><br>
+<b>有些像“新闻”的动画片段（学完日语，你并不想去日本电视台播报新闻联播）</b>
+<blockquote>视频来源：《<a href="//link.zhihu.com/?target=https%3A//www.bilibili.com/bangumi/play/ep88246" class=" wrap external" target="_blank" rel="nofollow noreferrer">机动警察 剧场版2 东京保卫战</a>》，字幕来源：B站原版</blockquote><a class="video-box" href="//link.zhihu.com/?target=https%3A//www.zhihu.com/video/1041941992317652992" target="_blank" data-video-id="" data-video-playable="true" data-name="穿插在动画中的新闻片段" data-poster="https://pic4.zhimg.com/v2-9bf9f55320de043cd3a1c798951769fe.jpg" data-lens-id="1041941992317652992">              <img class="thumbnail" src="https://pic4.zhimg.com/v2-9bf9f55320de043cd3a1c798951769fe.jpg"><span class="content">                <span class="title">穿插在动画中的新闻片段<span class="z-ico-extern-gray"></span><span class="z-ico-extern-blue"></span></span>                <span class="url"><span class="z-ico-video"></span>https://www.zhihu.com/video/1041941992317652992</span>              </span>            </a><br>
+<b>有些前半部分是校园日常，后半部分突变各种魔法…</b>
+<blockquote>视频来源：《<a href="//link.zhihu.com/?target=https%3A//www.bilibili.com/bangumi/play/ep172123" class=" wrap external" target="_blank" rel="nofollow noreferrer">百变小樱 CLEAR CARD篇</a>》第5话，字幕：B站原版</blockquote><a class="video-box" href="//link.zhihu.com/?target=https%3A//www.zhihu.com/video/1041947282241024000" target="_blank" data-video-id="" data-video-playable="true" data-name="《百变小樱》前后半集相差很大" data-poster="https://pic2.zhimg.com/v2-13cefbe647099b965f5b9006c91f3983.jpg" data-lens-id="1041947282241024000">              <img class="thumbnail" src="https://pic2.zhimg.com/v2-13cefbe647099b965f5b9006c91f3983.jpg"><span class="content">                <span class="title">《百变小樱》前后半集相差很大<span class="z-ico-extern-gray"></span><span class="z-ico-extern-blue"></span></span>                <span class="url"><span class="z-ico-video"></span>https://www.zhihu.com/video/1041947282241024000</span>              </span>            </a><br>
+<b>有些挂着商务日语的招牌，实际上却在教撩妹！</b>
+<blockquote>视频来源：《<a href="//link.zhihu.com/?target=https%3A//www.bilibili.com/video/av15758669/" class=" wrap external" target="_blank" rel="nofollow noreferrer">香蕉夫先生</a>》第1集，字幕：教日语的小慌先生</blockquote><a class="video-box" href="//link.zhihu.com/?target=https%3A//www.zhihu.com/video/1041956426461265920" target="_blank" data-video-id="" data-video-playable="true" data-name="这算“商务日语”题材的动画么" data-poster="https://pic1.zhimg.com/80/v2-94f9bd7b0321bb31e756d9d3ff2d1d20_b.jpg" data-lens-id="1041956426461265920">              <img class="thumbnail" src="https://pic1.zhimg.com/80/v2-94f9bd7b0321bb31e756d9d3ff2d1d20_b.jpg"><span class="content">                <span class="title">这算“商务日语”题材的动画么<span class="z-ico-extern-gray"></span><span class="z-ico-extern-blue"></span></span>                <span class="url"><span class="z-ico-video"></span>https://www.zhihu.com/video/1041956426461265920</span>              </span>            </a><hr><h2>4没有适合日语学习的动画素材吗？</h2>我从2017年7月~2018年10月，花了整整1年3个月时间，按照下图的逻辑，重新编写整理了属于我和我的学生的日语教材体系。
+<figure><img src="https://pic2.zhimg.com/50/v2-b34de537bfe9dac31abd24e313e1c389_b.jpg" data-caption="" data-size="normal" data-rawwidth="627" data-rawheight="679" data-default-watermark-src="https://pic2.zhimg.com/50/v2-5002d3c8c07e7a2fae6449b3ab94408e_b.jpg" class="origin_image zh-lightbox-thumb" width="627" data-original="https://pic2.zhimg.com/50/v2-b34de537bfe9dac31abd24e313e1c389_r.jpg"></figure><a href="https://zhuanlan.zhihu.com/p/30523738" data-draft-node="block" data-draft-type="link-card" data-image="https://pic4.zhimg.com/v2-7eef7bbc45c0e18082ebb52f198f981b_180x120.jpg" data-image-width="1280" data-image-height="960" class="internal">教日语的小慌先生：致日语学习者：2018年我的日语教材教学法革新</a>我很懒，如果能用现成的，我也不想亲自编写。目前在教材体系中的、个人认为十分接近日本现实生活口语运用场景的动画片段，只留了这么一集：
+<blockquote>视频来源：《月曜日のたわわ》第9集，字幕来源：诸神字幕组</blockquote><a class="video-box" href="//link.zhihu.com/?target=https%3A//www.zhihu.com/video/1041958815108726784" target="_blank" data-video-id="" data-video-playable="true" data-name="适合日语学习的一集" data-poster="https://pic1.zhimg.com/80/v2-ade034d20c5bc7124e8fff6f9a53b9d0_b.jpg" data-lens-id="1041958815108726784">              <img class="thumbnail" src="https://pic1.zhimg.com/80/v2-ade034d20c5bc7124e8fff6f9a53b9d0_b.jpg"><span class="content">                <span class="title">适合日语学习的一集<span class="z-ico-extern-gray"></span><span class="z-ico-extern-blue"></span></span>                <span class="url"><span class="z-ico-video"></span>https://www.zhihu.com/video/1041958815108726784</span>              </span>            </a>这一集动画是经过我剪辑的，可以感受到，剪辑后的动画片段和真实日本咖啡厅接待客人的日语已无两样。这样的素材学习完，在【现实语言运用】中就可以马上【学以致用】。无需调整。
+<hr><b>总结一下：</b>
+①只看动画不练习，大概率是学不会的。
+②看动画学日语是积少成多·水滴石穿的过程，只看个2,3年是远远不够的。
+③光靠视听只训练了“耳朵”，没有训练到“嘴巴”。
+④看动画的过程属于泛听，解决的是零星的语感积累。
+⑤以上并不否认包括“看动画”在内的一切泛听所扮演的极其重要的作用。
+⑥泛听素材的推荐排序：<b>综艺=纪录片</b>＞电视剧=电影＞动画=新闻。
+⑦只看有日文字幕的。只有中文字幕的片子就只是看个爽而已。
+⑧字幕组不是上帝，他们的字幕有时也有错。
+<br>
+<a class="member_mention" href="//www.zhihu.com/people/cf3c4f27ca27d8c65b20272fb377040a" data-hash="cf3c4f27ca27d8c65b20272fb377040a" data-hovercard="p$b$cf3c4f27ca27d8c65b20272fb377040a">@教日语的小慌先生</a> 
+
+==================================================
+
+有哪些你第一眼就钟情的佳句？
+
+
+青葱少年
+1. 此刻无论发生什么（极悲或极喜的事），对于整个人生而言，都只是非常小非常微不足道的一件事（甚至连一个阶段也算不上）。只要大致的方向和原则不发生改变，底线不动摇，最后的结局都是近似的。
+2. 你就不同了，你又有生气又有倦感，是披了欢喜面的真佛，是一切极致情欲后的禁欲，你的禁欲是最高级的性感，反正他有人间风情，你自人间风趣，更何况，你是不解风情才真有风情，你是人间理与欲的总和，让人想跟你过日子，又让人明晃晃只看到当中的日子。
+3. 你在命运中左突右奔，每一步选的不同，命都不同。无数道选择题，缠绕着你人生每一秒，有些无关紧要，有些生死攸关。
+4. 夜空是包裹光明的布，繁星是诸多细碎的孔，月亮是个郁闷的破洞，霓虹是人类的违逆颜容。
+5. 所有你在此刻觉得特别关键的人、无比重要的事、不可能绕过去的感情，都会在将来的某一刻消失殆尽。我觉得这就是人生很遗憾的地方。
+6. 吹灭读书灯，一身都是月。
+7. 散步的时候突然想到我的一个大学同学，怒江人，家境特别穷困。本来她父母是不让她读大学的。她做x援交硬生生把大学读完了，还把她弟弟大学也供了出来。世界上哪里那么多陆依萍，能在大雨磅礴的时候遇到何书桓。更多的都是咬着牙齿揪着自己的头发把自己从泥地里拔出来的普通人而已。于她，我们都幸运太多。——简安娜
+8. 那些不甘心，那些要逼自己一把的事，那些在深夜熬着做的艰难的事，那些硬着头皮上的每个瞬间，甚至是无数个想放弃的绝望时刻，这些，才是让自己一点点从泥潭里出来，远离深渊，往光明的方向，一步步前进，一点点变好的事。我知道很难，但是这些才是救命良药。
+9. 收敛检束身心到至细、至密、至静、至定之极，作事愈有力。
+10. 纵有疾风起，人生不言弃，愿诸君锐气无匹。
+11. 一定要找到那个可以理解你的痛苦与锋芒的人，不论男女。否则，你将只能在灯下枯坐，吃苦不甘。——今山事
+12. 我以前认为，生活日复一日地，好狭隘。更年轻的时候，私下里祈过许多，盼诸事顺周，家人平安，并且希望可以得到爱。现今方明白过来，生命是少数拾取，其余则是失去。 
+13. 她说起自身，早已搬出来住，住在横街，斜对面有家幼稚园。定期回家探望父母。戏班无事时，会早起练嗓，去报刊亭买晨报，看重播的综艺节目，在阳台种有向日葵，也抄经。“以前听说，生命最后的归宿是宗教。我是不信的。”她的笑里透着失落和惭愧，“但我竟也走到这步。” ——今山事
+14. 没人知道你的故事
+丛生的疤痕 烙进雪白
+你说 这是某年
+火山与冰雪的交战
+你低头 未戴面具 
+坦荡如皎月
+我们藏住惊骇看你 
+一不小心 惊飞树枝乌雀
+——金泽香《异形女子》
+15. 你喜欢的那个人终有一天会来找你，走的有点慢，你别急。 
+你看，煎饼果子摊完鸡蛋抹完辣酱放上青菜整上薄脆加根烤肠，还要等5分钟呢。 
+肉夹馍从火烧烤的酥香到烧肉辣椒葱花剁碎，还要等4分钟呢。 
+就算泡一包方便面，还要等3分钟呢。 
+吃一顿饭都等那么费劲，何况等一个爱你的人。
+16. 有时关不上冰箱的门，脚趾撞到了桌腿，临出门找不到想要的东西，突然忍不住掉泪。你觉得小题大作，只有我自己知道为什么。——《海边的曼彻斯特》影评
+17. 日子像是落俗的烟火，纵情几近笑话，绚烂形同浮夸。
+18. 成年人都在掩饰、在试探、在权衡利弊、在看谁能被先引出底牌。在故作精明、在避免行差步错、在始始终终维持体面。可是我偏不，我要热烈、要坦荡、要真心硬碰硬。我笃定，今天我敢站在你的面前，明天我们就能喝同一杯酒。——亦澈
+19. 好在我也拥有过一段真诚被爱的时光，每次想起，都觉得美妙，只是不会再有了，那样的时刻，那群人，那部分快乐，永远不会再重聚，大家都洋洋洒洒的奔着自己的路去了，没有人回头。 ——蹙损他淡淡春山- 
+20. 也许你踽踽独行无枝可依
+也许天地无光风长路也远
+生死枯荣   盛衰欢兴
+我总是等着你的
+21. 我一直认为所有事情的发生都是有它的原因，上天要你失去这个东西或者这个人一定有他的道理，一定是要让你经历些什么，我总觉得所有东西都是命中注定，上天就是要让你发生点破事儿才能让你体会到什么生存，如果这辈子什么都一帆风顺上天肯定觉得太没劲了，生活最擅长的就是慢慢折磨你罢了，人生如此，拿酒来。—— 阿豪爱喝酒啊 
+22. 好想上高中啊，我今天的感叹，高中时间怎么那么充裕，一天怎么那么长，上午五节课下午五节课，早自习晚自习还能午休，一天三顿饭一顿都不错过，做一万张卷子，就这样还能抽空谈恋爱和吃零食。现在一天哗啦一下就过去了，饭都没吃够。——what-fruit
+23. 不知道到底是要杀死什么东西，我的心里住满了刀子。——华衣吹笛人
+24. 永远要记得，被命运打趴下的时候，我们还是要爬起来，拍拍身上的土说，来，咱们三局两胜。—— 八月长安
+25. 为了寻找你 
+我搬进鸟的眼睛 
+经常盯着路过的风
+也忘了躲避猎人的枪声
+26. 30岁的时候，我依然独身，寄居在上海一栋小小的公寓里，旁边就是公园，种了许多的树，夏天的傍晚我常常过去散步。日子清闲，但工作忙碌，有一只养了近乎十年的猫，十分可爱。30岁这一年，我梦见我身穿白纱，喜欢的男孩在梦里吻了我，所以我来找你，拍下这个梦。​——浪荡胭脂马
+27. 人们所说的每一句真心话， 有时只代表在说的那一刻是真心的，而非说完以后。——LinmasL .aw
+28. 没关系，这次也会熬过去的。像以往无数次那样。—— 言言的小尾巴
+<b>微信公号：青葱少年（qcsn456）</b>
+<b>新浪微博：城南书房</b>
+<b>欢迎大家关注我的公号和微博，里面还有很多和知乎上完全不一样的小橘子，没事儿可以来看看噢。</b>
+
+==================================================
+
+如何评价鹿晗2018"RE:X"演唱会？
+
+
+吃喝玩乐
+一会儿16：30出发，等看完回来再说。<br><br>**********<br><br>喜好是很个人的事情，最近看了6场各种各样的现场，接下来已买好票的还有2场。<br><br>我只能说，这种水准的演出，请每周给我来一场。<br><br>**********<br><br>有人说让我多写点儿，其实是我不知道该写什么。关于现场，有想了解的可以在评论中问，我会客观回答。<br><br>**********<br><br>问: 能客观说说吗？我听着觉得他真的进步好多。但特别想听路人对这场演唱会的评价<br><br>答: 以前没看过他现场，他的高音在手机里听一直觉得有点偏薄，却又不够清亮，又有去年五四的问题，所以，之前对他的唱功是有点存疑的，或者说是不是像大家说的比EXO时期退步了。<br><br>现场来看，唱功完全没问题，舞蹈灵动，比视频好看，比视频更有感染力；音色好听，边唱边跳气息稳定。业务能力配得上他的人气，绝非徒有虚名，倒是好像人气太高让人忽略了他的实力；或者说唱跳类市场还小，没有得到主流人群的认可，所以大众以为他名不符实。<br><br>不是只有飙高音炫技才叫有唱功，现场开麦且歌且舞，带给人听觉与视觉的双重愉悦，同样是实力的体现，而且是个人更偏爱的实力。毫无疑问，鹿晗是唱跳歌手里面的TOP之一，这场演唱会，更是顶级，良心。<br><br>**********<br><br>PS  跟粉丝道歉，辜负粉丝的心意了，我这么高冷的人，觉得挥舞莹光棒有点傻x，所以，我这里3只莹光棒亮了大概只有六分之一的时间，很抱歉，远处看，大概以为我这里是空座。<br>另外，人太多了，上厕所排死个人，导致没看到开头第一曲。所以开场前拍的照，我那里也还是空位。<br><br>**********<br><br>另外，真的是一个不擅言辞的人，就跟你身边笨嘴拙腮的理工男一样，亲和，实在，真诚，没有距离感，没有甜言蜜语，不会讲漂亮话，没有能言善辩者看起来光鲜亮丽、看起来满腹诗书，是缺点，为人诟病，也是优点，值得珍惜。<br><br>**********<br><br>又及，搜了一下演唱会的视频，发现个问题：现场听起来完美的演唱，听视频的声音就会有这样那样的不足，有专业人士解析其原因吗？（问了下，基本说是收音的关系）<br><br>被人批评唱功，也有这个原因吧？<br><br>这不是他一个人的问题，我看别的歌手演唱会也遇到过同样问题，一直不得其解。<br><br>不过，没关系，我喜欢的是现场，只要现场听起来好听就好了。<br><br>----------<br><br>补充一下，是有的饭拍听起来不太好，有的视频声音就不错，所以应该还是收音问题。豆瓣看到两个视频，忽然觉得我是不是看了假的演唱会，好多细节没看到。<br><br><a href="//link.zhihu.com/?target=http%3A//video.weibo.com/show%3Ffid%3D1034%3A4292614590254692" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">video.weibo.com/show?</span><span class="invisible">fid=1034:4292614590254692</span><span class="ellipsis"></span></a><br><br><a href="//link.zhihu.com/?target=http%3A//video.weibo.com/show%3Ffid%3D1034%3A4292550367067866" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">video.weibo.com/show?</span><span class="invisible">fid=1034:4292550367067866</span><span class="ellipsis"></span></a><br><br>***********<br><br>走出网络，来到现实生活中，网上纷纷扰扰的糊与不糊、崩与不崩没那么重要。唱跳型歌手，live是根基，根基在，其它一切都是浮云。
+==================================================
+
+你看过最治愈的视频是什么？
+
+
+知乎用户
+据说这首歌在日本最火的时候，让日本的自杀率降到最低。
+听了会让人流泪不止的歌，
+看了会让人流泪不止的中岛美嘉。
+陌生人，快了点，认真地活下去。
+<br>
+<a class="video-box" href="//link.zhihu.com/?target=https%3A//www.zhihu.com/video/1031964722047856640" target="_blank" data-video-id="" data-video-playable="true" data-name="我曾经也想过一了百了" data-poster="https://pic2.zhimg.com/80/v2-06d07598b914763e5fedf37759b87a01_b.jpg" data-lens-id="1031964722047856640">              <img class="thumbnail" src="https://pic2.zhimg.com/80/v2-06d07598b914763e5fedf37759b87a01_b.jpg"><span class="content">                <span class="title">我曾经也想过一了百了<span class="z-ico-extern-gray"></span><span class="z-ico-extern-blue"></span></span>                <span class="url"><span class="z-ico-video"></span>https://www.zhihu.com/video/1031964722047856640</span>              </span>            </a><b>这首歌的背景：</b>
+出道第10周年，中岛美嘉宣布，因病暂停所有音乐表演。她得的病叫咽鼓管异常开放症，就是咱们坐飞机时耳膜鼓胀的感觉成了她的常态，只能靠声带震动感到自己的发声，很难辨识外界音。
+她几乎听不到自己的声音，就拼命用嗓子，到最后连声音都发不出了。
+千里迢迢跑去美国治疗，得到的结果是：无法治愈。这对一个歌姬来说，是天底下最残酷的事。
+美嘉每天坐在公园的长椅上哭，哭完练习发声，练完继续哭。
+然而谁也没想到，她歇了半年就大张旗鼓复出，开巡回演唱会，这到底出于怎样的热爱？谁都看得出，她哪是治病，而是在练如何在听不见的情况下唱歌。
+<br>
+这份热爱很动人，但现实很骨感。听不见自己的声音，就没办法控制发声力度，中岛美嘉从歌姬成了大家眼里的行走的车祸现场。被批斗得最猛的就是Music Station上唱新歌《花束》，跑调、高音破音，整个难以描述。
+她唱歌有种视死如归的决心，虽然嗓子毁了，可现场高音从不含糊。
+日媒都讽她：唱得鬼哭狼嚎。
+<br>
+唱完自己也笑了；
+歌手靠嗓子和耳朵吃饭，这两样东西坏了，隐退是最体面的选择。而中岛美嘉选择死磕。
+她内心强大得可怕，嗓音不够，就用无限的情感填补。
+<br>
+2015年，中岛美嘉开巡回演唱会，穿酒红色的纱裙，声嘶力竭地唱《曾经我也想过一了百了》。
+这版不是最好听的，但看完就能明白她说的“无限情感”。开唱前她朝舞台下独白：为什么世事总是不如意？为什么没有人来帮帮我？我要用我的歌声，唱出大家的心声。
+<hr>欢迎关注，我的更多有趣有料的知乎回答：
+<a href="https://www.zhihu.com/question/19986643/answer/276967019" class="internal">知乎用户：有100w左右的现金，有什么好的理财方式？</a>
+<a href="https://www.zhihu.com/question/27234737/answer/304283987" class="internal">知乎用户：办信用卡哪家银行好？</a>
+<a href="https://www.zhihu.com/question/23681801/answer/492738527" class="internal">知乎用户：信用卡取现，然后存支付宝吃利息，月底再取出还信用卡，有可行性嘛？</a>
+<a href="https://www.zhihu.com/question/287706107/answer/485319540" class="internal">知乎用户：余额宝利率一跌再跌说明了哪些问题？</a>
+<a href="https://www.zhihu.com/question/20388137/answer/298934631" class="internal">知乎用户：买二手房需要注意什么？</a>
+<a href="https://www.zhihu.com/question/20803106/answer/493677871" class="internal">知乎用户：如何选购银行的理财产品？</a>
+<a href="https://www.zhihu.com/question/37941624/answer/353244618" class="internal">使用支付宝“花呗”，微信“借钱”，京东“白条”会影响个人征信记录吗？</a>
+<a href="https://zhuanlan.zhihu.com/p/37200842" class="internal">拿走不谢，Mac 上最好的壁纸应用集合</a>
+
+==================================================
+
+如何评价From Software的游戏叙事模式？
+
+
+pcw
+在开始答题之前，先说说我的看法：
+从《国王密令2》到《黑暗之魂3》，FS社的游戏叙事一直都蛮特别的，在已经有了比较丰富的理论文献的今天，还是翻了半天资料都没找到贴合的概念，所以就干脆试着单独为FS分出一类来零碎地说说。
+———————————————————
+<b>先说结论：</b>
+FS社的游戏叙事模式的形成的过程，就是一种新型的游戏叙事方式的发展与崛起的过程。
+<br>
+FS社的作品一般都以风格黑暗颓废，叙事隐晦著称。不过随着游戏制作理念的更新和历代游戏制作人的不同，即使是同一个公司，作品叙事模式也在发生变化，所以上述的几款作品分成两条线来回答：<b>一条线以AC系列和《黑暗之魂2》为代表，而另外一条线以 《恶魔之魂》和《黑暗之魂1》为代表。</b>
+<br>
+<b>1.</b>AC系列和《黑暗之魂2》。
+FS社早期作品并没有确立什么独特的叙事方式，和其他游戏比起来就是画面好点，像《王国密令》将一些关键设定藏在游戏中获得的道具真理之镜中，使用镜子去照射npc和怪物来获得信息补完故事的手段也只是使叙事变得隐晦一些而已。
+直到《王国密令3》发售以后，锅岛俊文的出现才确立了<b>FS社后来独特的叙事模式雏形——所谓使玩家从游戏中挖取一切细节来讨论世界观的”用游戏世界来叙事“。</b>
+而在锅岛俊文负责的一系列剧本、企划中，又以《装甲核心》（AC）系列最为有名，所以就用AC系列来举例子。
+<b>用游戏世界来叙事的其中一个特点是：大量的设计在场景内的剧情提示。</b>比如ACLR执行任务的过程中收到的mail，且随着路线不同而会收到不同的mail，内容也会有一些矛盾，需要玩家进行深究。
+<b>至于这种叙事的另外一个特点：设计关卡内叙事要素</b>，即敌人的摆放和场景设计来提供信息，这方面AC做得不明显。一定要举个栗子的话，在初代AC任务档案的最后会遇上两台NINE BALL，初见可能会疑惑为什么会同时有2台NINE BALL存在，而其实这个任务会解开后来的某个任务的答案。
+除上面两点之外，还使用了必要信息之外的背景故事和人物设定进行压缩，弱化主角的个性（如装甲核心的人物一律不露脸）等方式来增强体验感。
+这种叙事方式通过玩家与游戏世界的单向互动与玩家经由推理做出改变后触发的一些事件，使得玩家有了正在参与叙事感觉，而为了更好的了解背景，玩家需要根据游戏里蛛丝马迹架构还原世界观（床说中的“From脑”）。
+<figure><img src="https://pic2.zhimg.com/50/v2-9bb5ad86bb20ce02b2f0827327fce65a_b.jpg" data-caption="" data-size="normal" data-rawwidth="140" data-rawheight="162" class="content_image" width="140"></figure>然后是《黑暗之魂2》。2代从制作人到团队基本上都是原来制作王国密令和影之塔的那批老人，所以比起《黑暗之魂》，2代更像是集《国王密令4》与《影之塔》之大成，加上对《恶魔之魂》的模仿做出来的旧From式奇幻游戏，所以没有将其和其他魂系列的作品归类在一起。
+因此可以看到《黑暗之魂2》的游戏叙述方式继承了老FS的”<b>用游戏世界来叙事“</b>的方式，还继承并发扬光大了一些方面（后面会提到），<b>但是AC以来的缺点也一并沿袭了：关卡内叙事要素薄弱。</b>比如原罪学者中随处可见咒缚者和海拔不明的熔铁城，以及众多意义不明的boss的放置，都是在某种程度上牺牲了游戏世界的合理性的设计，所以也一定程度上破坏了玩家的代入感（当然魂2的游戏性非常好，这边也折射出了老生常谈的游戏的叙事和游戏性相矛盾的问题...）
+<br>
+<br>
+<b>2，</b>《黑暗之魂》系列和《血源诅咒》
+这几部作品由参与AC系列制作的宫崎英高主导的，而宫崎的意思就是他喜欢<b>非线性叙事</b>，鼓励玩家运用想象力来理解整件事情，在此基础上制作组保证游戏世界设计的合理性（宫崎英高语）。
+怎么理解呢，这个内老爷已经说得非常非常清楚了(从文章四分之一处开始）：
+<blockquote>魂系列的叙事，从手法角度来说，非常大胆创新：它可以划分成两个主要部分，第一个部分是“<b>用玩家行为来叙事</b>”，第二个部分是“<b>用游戏内容来叙事</b>”。</blockquote><a href="https://zhuanlan.zhihu.com/p/25481394" data-draft-node="block" data-draft-type="link-card" data-image="https://pic1.zhimg.com/v2-ac80c33f4c1d264a4cd048b8ed8b40c4_180x120.jpg" data-image-width="977" data-image-height="475" class="internal">Necromanov：从魂到仁王：两个游戏类型的重构史</a><br>
+稍微补充一下，有理由相信上文第二部分叙事方式是在FS社一脉相承的“通过游戏世界进行叙事”的基础上发展成<b>“通过游戏内容进行叙事”</b>，而这种基于游戏内容的叙事不仅是在场景和关卡上大量设计剧情要素，连游戏机制也利用上了。
+包括游戏死亡在营地后复活的机制，一次次的死亡后，一次次的向着包含剧情要素的关卡前进，可以看成是叙事的不断重复，而玩家此基础上经由解谜与推理做出的改变（包括改变后触发相应的事件），使得玩家产生了一种“参与叙事”的错觉，而这种错觉正是游戏核心体验与大获成功的原因。
+所以你可以看到不死人盘坐于燃烧着骨片的篝火之上，猎人轻抚着梦境信使展示的提灯，整个游戏的一切——甚至包括存档和死亡都是游戏世界的一环，都在讲述世界运行的原理，无比自洽。
+<figure><img src="https://pic3.zhimg.com/50/v2-e84a50f97fb116ea800aaa51e75ab786_b.jpg" data-size="normal" data-rawwidth="720" data-rawheight="406" data-default-watermark-src="https://pic4.zhimg.com/50/v2-e784c53ed6002788be95420abb1f52fd_b.jpg" class="origin_image zh-lightbox-thumb" width="720" data-original="https://pic3.zhimg.com/50/v2-e84a50f97fb116ea800aaa51e75ab786_r.jpg"><figcaption>血源诅咒的营火点</figcaption></figure>而像这种<b>通过游戏叙事与机制相结合达成的游戏叙事</b>在成本上付出的代价简直不值一提，所需不过精巧的构思与设计。然而就是因为如此，难于量产与极易重复，这也是为什么说魂系列都被打下了宫崎英高个人烙印的原因了。多说两句，宫崎制作的几部魂系列也并不是完美无缺的，游戏叙事与游戏性的冲突也说来就来，堆怪、近路泛滥、敌人韧性奇怪在魂三也蛮蛋疼的，这大概就是所谓二代粉和宫崎粉相互黑的根源所在了。
+<br>
+————来自一个因为苦苦等了几十年却还等不到更新所以毅然水了一篇的人..
+<br>
+<a href="http://www.zhihu.com/question/25399989" class="internal">游戏有哪些叙事手段？</a> 
+
+==================================================
+
+德克·诺维茨基、凯文·加内特、蒂姆·邓肯在 21 世纪头 10 年分别被如何看待评价？
+
+
+黎声旭
+谢邀。
+其实想不想回答犹豫了很久。
+一是在思考怎样写才能尽量不主观的摆事实讲道理，不仅仅是描述，以满足题主的需求；
+二是目前所有人的答案我都看过，有赞同的也有不置可否的。
+最后我还是决定写一下吧，我的答案如何也请大家来评判一下，因此评论区我目前是全部打开的状态。
+<br>
+以下是正文。我是按照题主给的球员顺序写的，并且和其它答案不同的是，最后我会回答题主在描述中添加的大话题：其实也许我更想知道21世纪初的内线生态状况。
+<hr><h2><b>I.德克-诺维茨基在新世纪头十年被如何看待评价</b></h2>简单来说，对于诺维茨基的看法是题主提到的三人里起伏最大的（这与思维定势以及产生的偏见有很大关系），嗯，仅仅在新世纪头十年也是如此——毕竟我们都知道，小牛在他的率领下于2011年登顶总冠军。
+<br>
+诺维茨基走入大众球迷（主要指的是NBA北美本土受众里的大众球迷，下不赘述）视野，要从0001赛季说起——当季的小牛在芬利的率领下，季后赛首轮通过抢五，以击败犹他双煞的爵士的方式突破首轮，打进西半决，与当时的季后赛新常客马刺鏖战五场被淘汰。
+虽然被淘汰了，但系列赛里小牛并不总是单方面被马刺吊打，过程还有些戏剧性：
+G1小牛朱万-霍华德把马刺外线第一得分手德里克-安德森拉伤赛季报销，当季被寄予厚望可以与巅峰OK湖人一战的马刺就此实际上失去了争夺总冠军的实力：
+<figure><img src="https://pic1.zhimg.com/50/v2-0d51ac2d74fc578ef0be77260a7605dc_b.jpg" data-rawwidth="240" data-rawheight="180" data-size="normal" class="content_image" width="240"><figcaption>朱万-霍华德直接把德里克-安德森拉成右肩重伤，赛季报销</figcaption></figure><figure><img src="https://pic2.zhimg.com/50/v2-717f397aa86331baf3d770f56d7b0a79_b.jpg" data-rawwidth="580" data-rawheight="271" data-size="normal" class="origin_image zh-lightbox-thumb" width="580" data-original="https://pic2.zhimg.com/50/v2-717f397aa86331baf3d770f56d7b0a79_r.jpg"><figcaption>朱万-霍华德直接把德里克-安德森拉成右肩重伤，赛季报销</figcaption></figure><figure><img src="https://pic2.zhimg.com/50/v2-dce99ce0ebeb19a1f20d19db8f80484f_b.jpg" data-rawwidth="580" data-rawheight="435" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-33e7226253cf3f52e34f486f7b74b6b4_b.jpg" class="origin_image zh-lightbox-thumb" width="580" data-original="https://pic2.zhimg.com/50/v2-dce99ce0ebeb19a1f20d19db8f80484f_r.jpg"><figcaption>当时被判罚出场的朱万-霍华德</figcaption></figure>由此G1下半场~G3、G5小牛内线群被气得发誓报仇的邓肯教训的体无完肤（当时邓肯的常规战力输出尚未到达MVP化的状态，是这次安德森的赛季报销成为了邓肯迸发出了可以争夺MVP的状态的直接导火索，由此邓肯更加卖力打球、卖力训练，成为了二连MVP，他可以争夺MVP的状态直到0304赛季为止）。小牛只有面临淘汰的G4集体手感爆棚。
+话分两头，当时老尼尔森布置的战略中最初小牛三剑客是纳什坐镇弧顶指挥，强侧主攻交给老大芬利，弱侧主攻才是诺维茨基；但随着系列赛的深入，芬利受到了马刺重点照顾于是主攻的状态很不好，倒是诺维茨基越打越出色——前三场尚且是正常的弱侧主攻应有的数据，G4高效砍下30分（运动战18中11，罚球8中8）9板1助1断，G5高效砍下42分（运动战24中14，罚球18中14）18板2助6断1帽，不仅很好的完成了弱侧主攻的任务，还有些抢了主攻手芬利的风头。
+<figure><img src="https://pic3.zhimg.com/50/v2-fae88b2249d7dc601b5a7ff1752ed135_b.jpg" data-rawwidth="580" data-rawheight="433" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-2e016382792c699adb7665b00eeca5b8_b.jpg" class="origin_image zh-lightbox-thumb" width="580" data-original="https://pic3.zhimg.com/50/v2-fae88b2249d7dc601b5a7ff1752ed135_r.jpg"><figcaption>G4一度门牙挂彩的诺维茨基</figcaption></figure>就此诺维茨基得到了大众球迷的注意和青睐，后一季生涯第一次入选了全明星（替补，全明星选票西部前锋诺维茨基排在第四，位于加内特、邓肯、韦伯身后）。
+<figure><img src="https://pic2.zhimg.com/50/v2-4a282116d84ad8a7927103c0f87669bb_b.jpg" data-rawwidth="429" data-rawheight="600" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/50/v2-b8eb6703b7d6f36d2c032b3afea02df5_b.jpg" class="origin_image zh-lightbox-thumb" width="429" data-original="https://pic2.zhimg.com/50/v2-4a282116d84ad8a7927103c0f87669bb_r.jpg"><figcaption>达拉斯三剑客</figcaption></figure>大众球迷记住了达拉斯三剑客，记住了由美国人芬利带领的两个外籍小弟——加拿大白人后卫纳什和德国白人大个子射手诺维茨基——对，<b>大个子白人射手诺维茨基</b>，这就是大众球迷对诺维茨基赋予的第一个印象，也成了MVP化之前大众球迷对诺维茨基的固有印象——北美球迷们恐怕觉得这只不过是国际+全明星版本的奥斯丁-克罗希尔、丹尼-费里（都是美国本土的大个子白人射手。前者在球员生涯前期在以投射为主的打法的同时也兼顾一些强硬的突破，与后来的诺维茨基常规打法有些相似；后者主打PF但当时主要可以在SF、PF两个位置摇摆，与当时名为PF实为SF的诺维茨基有些相似——毕竟当时小牛的前场先发阵容是诺维茨基、朱万-霍华德、布拉德利，于是诺维茨基时常被老尼尔森安排进攻端站PF防守端站SF），与对PF这个位置产生革命性定义的伟大球员还差得远呢！
+<br>
+芬利与诺维茨基的互换最初从小牛失败的0304赛季开始——当季芬利的出手跌破场均17次、罚球出手跌破场均3次。从总体上来看，小牛的0304赛季对阵容换血的实验是失败的——补进安东尼-沃克、安托万-贾米森，间接削弱了原小牛三剑客的球权。结果就是，以上两位以及原三剑客三位，每个人都打得不如之前来得好。
+但假如把当季看作一个承上启下的铺垫、跳板，反而看得出其中的成功之处——在当季的阵容实验总体上失败后，小牛重用达拉斯双丑这两位一年级新人的换血决策却显得在未来一段时间内是成功的——马奎斯-丹尼尔斯和约什-霍华德；削弱并且最终解散三剑客也称得上是不破不立——毕竟小牛是真心用不全纳什、芬利也确实出现了老化的倾向、诺维茨基的MVP化又开始势不可挡，拖下去对已经步入瓶颈期却拉不下面子摊牌的三人来说，恐怕是弊大于利的。当然，我并不是在给小牛管理层解散三剑客的决策洗地，事实上库班对纳什的偏见、和芬利的谈判甚至和老尼尔森处关系的方式都确实是库班理亏。
+<br>
+诺维茨基在MVP化同时也是大众球迷对他的评价两极分化：一方面，常规赛、季后赛、总决赛，他确实在不断取得成功；另一方面，他在取得这些成功之后又很快欠缺临门一脚
+——06年小牛从西半决磨过老对手马刺（牛马大战中小牛第一次获胜）开始就秉着一股【劳资要夺冠】的气，西决又战胜好哥们纳什的残阵太阳，终于打进总决赛要对阵热火了，起初系列赛的势头也确实在小牛这里，主场直落两盘去客场，结果就此四场被翻盘，造就体毛、不是、天神韦德。
+——来年小牛又带着横扫全联盟的霸气，依靠约什-霍华德单打→诺维茨基单打→斯塔克豪斯单打的三板斧战术勇夺67胜全联盟最佳战绩，诺维茨基凭此勇夺常规赛MVP。进入季后赛阶段，首轮小牛对阵的是此时已经是前主帅老尼尔森率领的勇士，结果首轮打完六场愣是被勇士黑八。而当时的MVP是在季后赛期间颁发的，具体时间每个赛季不定（都集中在半决赛~分区决赛进行的五月份期间）：
+<figure><img src="https://pic1.zhimg.com/50/v2-5f7f7dc06cc1c902205c0a23af927620_b.jpg" data-rawwidth="512" data-rawheight="341" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/50/v2-01ad26e4f37e0b8920bc12429f65150c_b.jpg" class="origin_image zh-lightbox-thumb" width="512" data-original="https://pic1.zhimg.com/50/v2-5f7f7dc06cc1c902205c0a23af927620_r.jpg"><figcaption>诺维茨基取得MVP，时任小牛主帅的挨弗里-约翰逊与其拥抱</figcaption></figure>这就叫做人生不如意十有八九，祸不单行连倒霉的事也不单行——为了形象的联盟最终由萧华拍板，对赛季奖项的颁发时间进行改革，集体改成了总决赛结束后的休赛季期间。于是2017年的威斯布鲁克再没有经历十年前诺维茨基经历过的囧况。
+但有一句说一句，这段时期里认可他身为联盟顶级PF甚至【历代PF中革新的一代】*一员的看法开始越来越多了，相比几年前大众球迷认为他只是费里加强版的大个子射手的思维定式印象要好得多。
+*关于【历代PF中革新的一代】的看法是随着阿尔德里奇、勒夫等相比邓肯、加内特、韦伯、诺维茨基等新一代PF代表们崛起之后才开始出现的看法。这一点我会在最后的部分展开。
+<br>
+从此，大众球迷看待和评价诺维斯基时变成了贬义为主，而这样的看法也贯彻00年代的诺维茨基始终，每年当诺维茨基的小牛在季后赛钓鱼时就会对他的表现百般挑剔。
+这样的形象直到2011年诺维茨基率队夺冠、荣获FMVP，完成双MVP的生涯成就才完全得以摆脱，由此，大众球迷对其认可度才开始飙升并超过此前很长一段时间内的人气PF霸主，也就是题主下一位提到的人物——加内特。
+<br>
+另外说一点，诺维茨基本人偶尔也是把大众球迷的看法放在心里的，并不是完全置身事外——正是2007年被勇士抓住他MVP化之后重视肘区全面的面筐终结、忽视背身进攻的弱点痛打并且最终导致被黑八的惨痛教训，成为了他勤练背身进攻最初的导火索；而2008年在小牛引入基德之后却仍然首轮出局、挨弗里-约翰逊引咎辞职，新到任的卡莱尔也让他勤练背身进攻，于是从此，我们看到了0809赛季以来诺维茨基标志性的背身打法，并且随着小牛夺冠引发了全世界对这种背身打法的学习风潮：
+<figure><img src="https://pic2.zhimg.com/50/v2-2620a4674fffa8071fc989122f2f46cb_b.jpg" data-rawwidth="444" data-rawheight="250" data-size="normal" class="origin_image zh-lightbox-thumb" width="444" data-original="https://pic2.zhimg.com/50/v2-2620a4674fffa8071fc989122f2f46cb_r.jpg"><figcaption>诺维茨基原版背打（金鸡独立）</figcaption></figure><figure><img src="https://pic2.zhimg.com/50/v2-bffa247f742542bb221a38ef12402808_b.jpg" data-rawwidth="280" data-rawheight="152" data-size="normal" class="content_image" width="280"><figcaption>科比仿照诺维茨基背打（金鸡独立）对照</figcaption></figure><figure><img src="https://pic3.zhimg.com/50/v2-d1d370337ce416f52aae4e66abb3780f_b.jpg" data-rawwidth="376" data-rawheight="211" data-size="normal" class="content_image" width="376"><figcaption>詹姆斯学习诺维茨基背打（金鸡独立）</figcaption></figure>话说，应该都知道，科比和詹姆斯平时的背打翻身跳投动作不是这样的吧？
+<hr><h2><b>II.凯文-加内特在新世纪头十年被如何看待评价</b></h2>简单来说，对于加内特的看法是题主提到的三人里最能体现出稳中有降的（主要指人气），这一点又以00年代的对半分为分水岭。
+在世纪之交时，PF这个位置上，人气的排位大致上是这样的（取00、01、02三年的全明星投票——在全明星投票受到东方力量的强力干扰的2003年之前，全明星投票是可以侧面反映出球员人气的）。
+2000年西部：
+1.加内特155W
+2.邓肯132W
+3.韦伯66W
+4.马龙32W
+5.拉希德-华莱士17W
+6.巴克利16W
+<br>
+2001年西部：
+1.韦伯130W
+2.邓肯109W
+3.加内特100W
+4.拉希德-华莱士51W
+5.马龙47W
+6.贾米森39W，约40W
+7.格兰特36W
+<br>
+2002年西部：
+1.加内特88W
+2.邓肯76W
+3.韦伯55W
+4.诺维茨基39W
+5.马龙16W
+6.布兰德16W
+7.拉希德-华莱士16W
+<br>
+总结一下就是三年里两年登顶，一年第三。
+这就是为什么<b>邓肯、加内特、韦伯、拉希德-华莱士被合称为新世纪初四大PF</b>——嗯，稍晚崛起的诺维茨基没有被排进去，因为排的时候是在00~01这段期间——也在邓肯、加内特相继MVP化，与其余人拉开荣誉差距之前。
+事实上，直到加内特0708赛季被交易到凯尔特人之前，新世纪历年PF中，加内特和邓肯的全明星投票都处在同一个档次，不是你第一我第二就是我第一你第二（差值基本上不会超过20W）——这还是在00年代期间，双方的荣誉差距不断加大的情况下办到的，可见加内特的人气有多旺。
+于是两人共同的球鞋品牌阿迪达斯当时也是很聪明地将两位放入了阿迪五虎（约2007年），成就了阿迪在NBA最后的巅峰：
+<figure><img src="https://pic4.zhimg.com/50/v2-46b13c9128b83afe432e297572e25da7_b.jpg" data-rawwidth="500" data-rawheight="325" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/50/v2-2eabdaf04df1a37ff789ad3212ad7168_b.jpg" class="origin_image zh-lightbox-thumb" width="500" data-original="https://pic4.zhimg.com/50/v2-46b13c9128b83afe432e297572e25da7_r.jpg"><figcaption>经典的阿迪五虎，从左到右分别为加内特、阿里纳斯、麦克格雷蒂、比卢普斯、邓肯，五人恰巧可以组成一支篮球队的五大位置。</figcaption></figure>提加内特必须提他的人气，也可以从官方外号看出来：
+1.诺维茨基——German Race Car，译作德国战车，从诺维茨基的国籍上取的；
+2.邓肯——The Big Fundamental，译作大基本原理，从邓肯的球风上取的；
+3.加内特——The Big Ticket，译作大票房，从加内特的人气上取的。
+<br>
+要是说到加内特人气与荣誉紧密结合的巅峰，那肯定是0304赛季（包括2004年）。彼时森林狼管理层罕见地聪明了一把，打造了一度在NBA圈子里无人不知无人不晓的三头怪：
+<figure><img src="https://pic3.zhimg.com/50/v2-bc9f0aa76af88f47e5750eadf8924964_b.jpg" data-rawwidth="639" data-rawheight="650" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-ae1440340c58ee4004a972af4382716a_b.jpg" class="origin_image zh-lightbox-thumb" width="639" data-original="https://pic3.zhimg.com/50/v2-bc9f0aa76af88f47e5750eadf8924964_r.jpg"><figcaption>名噪一时的森林狼三头怪——斯普雷威尔、加内特、卡塞尔</figcaption></figure>别问我为什么叫三头怪这么难以回答的问题……（可能是因为三人的长相都显得其面不善？）
+三头怪除了加内特的另外两头，都是本身实力过硬的球员。
+在加盟森林狼之前，斯普雷威尔有三个事件比较著名：
+其一、在他二年级的9394赛季，尚显稚嫩的他挤掉当时正值巅峰的一票球星（比如里奇蒙德、凯文-约翰逊、佩顿、马克-普莱斯），以后卫的位置入选赛季一阵——这让众多NBA圈内圈外人大跌眼镜，毕竟当季是以后卫的位置常年垄断一阵的乔丹退役后的第一个赛季，让不少同位置的球星松了一口气，纷纷以为自己可以如愿上位。
+其二、9798赛季，卡列西莫从开拓者转投勇士的第一个赛季，当时执教风格有些严厉的他在训练中也是一样。时间步入到1997年12月，当天卡列西莫安排了全队训练，他针对斯普雷威尔传球不够果断的缺点进行了批评；可斯普雷威尔的回应是他心情不好，让教练离自己远一点，然而卡列西莫不依不饶还是上前准备教训，就在这时令人震惊的一幕发生了——斯普雷威尔对卡列西莫锁喉并且维持了大约15秒之长，在周围人拉开的情况下卡列西莫才解脱，然而他已经奄奄一息，送医院急救了。这就是震惊全美的<b>NBA锁喉门</b>。事后当季还只打了14场比赛的斯普雷维尔先是遭到了勇士禁赛10场，而后遭到了联盟的全年禁赛（后经过球员工会调停，减为当季剩余的68场常规赛）；赞助商宣布废止他的球鞋合同；勇士也宣布废止了斯普雷威尔的剩余球员合同（大约3年2370W），但这遭到了球员工会的仲裁被驳回，于是勇士最终把他送到了尼克斯。
+其三、到了尼克斯之后只打了2场先发的他又从常规替补打起。然而是金子总会发光，彼时知人善任的尼克斯主帅小范甘迪是不会错过这种实力派球员的，随着赛季的深入他的出战时间越来越多，很快就升到了第六人。而进入季后赛，随着球队老大尤因在东决重伤赛季报销，斯普雷威尔又摇身一变成为先发，先发出战了当季尼克斯季后赛的剩余比赛（包括总决赛），他与阿兰-休斯顿的临时组合被称为双子星。都知道马刺依靠挨弗里-约翰逊的底角中投准绝杀了尼克斯而最终夺冠的吧？马刺夺冠前的关键时刻，尼克斯的单打全部由斯普雷威尔持球发起，总决赛5场，斯普雷威尔场均26.0分位列队内第一。
+<br>
+在加盟森林狼之前，卡塞尔最著名的就是作为火箭的超级第六人随队夺得两连冠。他之所以早在一二年级就成为火箭的超级第六人，极大地磨练了自己的实战的经验和能力，主要是因为先发PG肯尼-史密斯的伤病越发严重（94年夺冠后去做膝盖手术，然而恢复并不好，在96年无奈离开火箭后，他很快就因为旧伤复发而选择退役），直接导致他早早结束了球员生涯转投解说行业。
+而到了加盟森林狼的当口，卡塞尔已经是一个老妖怪级别的PG了，能够通过IQ打进的球决不用身体硬打。比如经典的快攻戏耍基里连科转身上篮：
+<figure><img src="https://pic2.zhimg.com/50/v2-0c9e738ada03d0a6d621d4c36fa112d3_b.jpg" data-rawwidth="250" data-rawheight="200" data-size="normal" class="content_image" width="250"><figcaption>卡塞尔快攻戏耍基里连科上篮</figcaption></figure><br>
+除了大心脏的远投和打球IQ高之外，卡塞尔还有一个优势就是背打的造诣不错（足够他执教了）。参考下图（可惜没搜到森林狼时期卡塞尔的背打图，只搜到后来快船时期卡塞尔的背打图）：
+<figure><img src="https://pic2.zhimg.com/50/v2-9d6f9e307aa58cef4ff4a5688d1bbd12_b.jpg" data-rawwidth="300" data-rawheight="200" data-size="normal" class="content_image" width="300"><figcaption>快船时期卡塞尔背打年轻保罗</figcaption></figure><figure><img src="https://pic3.zhimg.com/50/v2-2315fb44175d994cbb48ea1a3b06c253_b.jpg" data-rawwidth="300" data-rawheight="200" data-size="normal" class="content_image" width="300"><figcaption>快船时期卡塞尔背打热火时期佩顿</figcaption></figure><figure><img src="https://pic1.zhimg.com/50/v2-5fc81a371cde902c475264548141a3e2_b.jpg" data-rawwidth="300" data-rawheight="200" data-size="normal" class="content_image" width="300"><figcaption>快船时期卡塞尔背打纳什</figcaption></figure>斯普雷威尔能提供的就是比较全面的进攻终结技术，而且攻防俱佳、33岁了还体力充沛（季后赛强度下撑三节完全没问题），总有一端的发挥能让他限制住对手（比如2004年西决限制科比），但他缺乏组织进攻的能力；
+卡塞尔能提供的是一手投篮中远投和组织进攻的能力，而且他的心脏经受过火箭两连冠的洗礼，但他年事已高（0304赛季期间度过了34岁生日），很难撑的住漫长的赛季和季后赛。
+他们俩就和彼时攻防全面但不擅长强攻的加内特形成了很好的互补，于是在他们俩的辅佐下，0304赛季加内特的数据井喷式地飙升——场均得分（24.2分）、场均篮板（13.9板，并且是生涯四连篮板王的第一个）、场均盖帽（2.2帽，也是自从二年级后生涯惟一一个上2的赛季）、场均总出手（19.6次）、场均总命中（9.8次）都创下了生涯之最。
+在赛季奖项方面，加内特也第一次在MVP评选中击败此前从未击败过的老对手邓肯荣获常规赛MVP——当时谁也没想到这是他生涯里唯一一次荣获常规赛MVP：
+<figure><img src="https://pic1.zhimg.com/50/v2-84666e83e0382031d79221770f7bb0e3_b.jpg" data-rawwidth="350" data-rawheight="425" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-28426b02de9b89e02757047c001b6a1f_b.jpg" class="content_image" width="350"><figcaption>颁奖仪式上加内特看着MVP奖杯的逗趣表情</figcaption></figure><figure><img src="https://pic3.zhimg.com/50/v2-1d0c1af1a768151c2c3a2c66a3e6cedc_b.jpg" data-rawwidth="350" data-rawheight="450" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/50/v2-0903d4495df3a241919725e49c06b342_b.jpg" class="content_image" width="350"><figcaption>加内特在标靶中心亮出常规赛MVP奖杯</figcaption></figure>季后赛，随着阵容的加强，加内特生涯期间的森林狼七连首轮的历史宣告终结。顺便，也送给新秀季的安东尼系列赛失败的滋味。
+西半决迎来当时联盟两大顶级PF——加内特VS韦伯的巅峰对决。前6场双方战成大比分3：3，双方既都保住过主场也都赢过客场，既都大胜过对手也都险胜过对手，可谓难解难分——一切就看抢七了，当天恰巧是加内特的生日。这时候就体现出主场优势的重要性了，半场战罢，41：31森林狼领先国王10分；
+下半场，国王的季后赛经验开始发挥作用。国王多点开花，进攻点分散让森林狼难以捉摸；森林狼始终是三头怪三线苦撑。要不是第三节最后卡塞尔命中三分续命，国王可就反超比分了，三节战罢，62：60森林狼只领先国王2分。第四节，国王通过克里斯蒂的三分一度将比分迫近到80：81（因为之前斯普雷威尔两罚中一），值此关键时刻，时任森林狼主帅的桑德斯重新换上卡塞尔，克里斯蒂只好对其战术犯规，结果卡塞尔两罚全中。国王暂停，暂停归来克里斯蒂三分不中，布拉德-米勒抢到前板，正要补篮却被加内特盖帽，慌乱之中球被拨到外线韦伯手中，韦伯三分不中，国王再次抢到篮板结果全场比赛结束。赛后，深知韦伯在国王夺冠无望的加内特主动拥抱了韦伯。然后KG张开双臂，振臂一呼，欢庆森林狼队史第一次（当时没想到这也是队史至今唯一一次）晋级西决；没想到同时，韦伯悲伤到毫无征兆地跪地。就此成就了经典一幕，恰如两人在大众球迷看来经常展现的性格：
+<figure><img src="https://pic4.zhimg.com/50/v2-aafc84f62592815e9bfcc35737951fef_b.jpg" data-rawwidth="468" data-rawheight="594" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-9130dc92f55e01153482e250d6c319ae_b.jpg" class="origin_image zh-lightbox-thumb" width="468" data-original="https://pic4.zhimg.com/50/v2-aafc84f62592815e9bfcc35737951fef_r.jpg"></figure>西决，森林狼迎战重返西决的湖人，森林狼没有更进一步，大战六场遭到淘汰。
+系列赛期间卡塞尔受伤，由此他带伤出战。而随着卡塞尔和斯普雷威尔接下来先后一闹，三头怪分崩离析，就此留下了悬念——从头到尾满血满状态的三头怪带领的森林狼可以在季后赛走得多远？
+从此之后，森林狼别说季后赛打进西决了，就是不进季后赛的历史也是延续到今年才被打破的。这期间随着加内特负面新闻的增多，他在大众球迷那里的评价也呈现两极分化——好的方面，会认为他对明尼苏达、对球队十分忠诚，无论球队的现状如何都没想过离开，孤胆英雄；不好的方面，会认为他是无法让队友更好的毒瘤、怒打队友（破坏MVP的形象）、脏话连篇。但有一点是肯定的，随着森林狼再未打进季后赛，加内特的人气有了一定的下滑。
+<br>
+加内特从此在NBA沉寂了整整三年，他只有延续篮板王的表现和20分10板5助的亮眼数据还存在于关注他的球迷那里，可是同时，再无带队上的建树始终显得扎眼。这样的情况直到2007年休赛季，他获知被狼管（以麦克海尔为首）正在动手交易他为止，最终他被交易到了凯尔特人——这样的变化促使他再一次拥有了球星队友：
+<figure><img src="https://pic3.zhimg.com/50/v2-b52f698d9e5fa4972860839bac688b55_b.jpg" data-rawwidth="500" data-rawheight="336" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/50/v2-b110264b7dbf8528368fe0b9b06406f0_b.jpg" class="origin_image zh-lightbox-thumb" width="500" data-original="https://pic3.zhimg.com/50/v2-b52f698d9e5fa4972860839bac688b55_r.jpg"><figcaption>凯尔特人三巨头在波士顿成军，从此这支球队在中国球迷这里有了一个新名字——绿衫军</figcaption></figure>而随着0708赛季凯尔特人如风卷残云一般的成功，在带队上沉寂已久的加内特在大众球迷那里的形象发生了改变：<b>从明尼苏达的孤胆英雄，变成波士顿的团队领袖</b>——而被这样看待评价，成了加内特在新世纪头十年最后的形象。
+加内特和邓肯恩怨情仇了这么多年——无论这是真实的还是只是部分球迷们YY的；但有一点肯定的是，自从2010年以来，双方球迷都有人不断向我提过：惋惜加内特和邓肯从未在总决赛的舞台上交手，最近向我说起这个话题的只是在上个星期（KG球迷说起的）。其实两人最接近的是2008年季后赛——GDP同处在巅峰的马刺打进西决，然而遭到湖人淘汰；三巨头的凯尔特人在总决赛击败湖人，夺得总冠军。嗯，两人所在的球队与同一个对手（湖人）先后交手。
+<br>
+另外，加内特常常被认为是非常全面但得分不拔尖的伟大PF，这也确实有依据——在生涯单场最高分上，他只有47分；而其他同样担当过进攻核心的伟大PF中，只有德布斯切尔（41分）、格斯-约翰逊（44分）、巴克-威廉姆斯（35分）、波什（44分）和阿尔德里奇（46分）比加内特更低。
+不过加内特虽然得分不拔尖，但他的<b>稳定得分能力</b>还是得到过保障的——在他场均得分最高的0304赛季，他的赛季总得分一共1987分，位列联盟第一——这比当季得分王麦克格雷蒂的1878分（位列联盟第四）高出整整109分，按照当季麦蒂场均28.0分来算，一般情况下他要打4场常规赛才可以超过。
+这样的情形让我想起了尤因和奥拉朱旺的一个梗：
+众所周知，论得分能力奥拉朱旺强于尤因——常年膝盖有伤的尤因确实不以得分见长。
+但有趣的是，其一、两人的单场最高分却是差不多的——奥拉朱旺生涯一共两场50+，分别为1990年对阵掘金时砍下的52分和1996年对阵凯尔特人砍下的51分；尤因生涯同样一共两场50+，分别为1990年对阵凯尔特人砍下的51分和1990年对阵黄蜂砍下的50分。
+其二、尤因在8990赛季场均拿下的28.6分，奥拉朱旺终其职业生涯都没有赶上过（生涯最高是在9495赛季场均拿下的27.8分）。
+<hr><h2><b>III.蒂姆-邓肯在新世纪头十年被如何看待评价</b></h2>简单来说，对于邓肯的看法是题主提到的三人里总体上最好的。
+<br>
+自从1999年双塔马刺夺冠起，邓肯摇身一变，已经不再只是圣安东尼奥这种NBA小市场的球星了，而迈向整个北美，大众球迷自此看待邓肯为与大卫-罗宾逊地位相同的马刺双塔核心之一，此其一。
+其二就是广告代言的纷至沓来。
+比如邓肯的阿迪达斯球鞋广告（2000~2003每年都能在NBC的NBA直播节目NBA ON NBC看到）；
+比如邓肯和格兰特-希尔合作的高个子雇佣系列广告（1999年）等等：
+<figure><img src="https://pic3.zhimg.com/50/v2-65ea35892bfb22a841e45b55f1f5de78_b.jpg" data-rawwidth="697" data-rawheight="600" data-size="normal" data-caption="" data-default-watermark-src="https://pic2.zhimg.com/50/v2-c7be7f3c4c1f805d9c5308e749e9fa48_b.jpg" class="origin_image zh-lightbox-thumb" width="697" data-original="https://pic3.zhimg.com/50/v2-65ea35892bfb22a841e45b55f1f5de78_r.jpg"></figure>马刺当时的主要目标是在邓肯还留在球队的期间再夺一冠，以及在大卫-罗宾逊退役前以尽量平稳的方式完成交棒和重建——毕竟当时的刺管视邓肯为未来，还从来没有想过未来会有一天邓肯选择终止合同离开马刺呢。
+结果在2000年休赛季，邓肯一只脚已经踏到了奥兰多的土地上。虽然邓肯在老大哥大卫-罗宾逊不惜从中美洲度假途中返回圣安东尼奥的劝说下最终选择留队并与马刺提前续约，但当时的马刺还是受到了很大的震动，一提到此事有如惊弓之鸟，谈之色变。后来这事情邓肯私下里和鲍文说起过，但等到去年鲍文爆料的时候他记错了时间顺序——在2000年邓肯差点去魔术的时候他还没来马刺没和邓肯有交情呢。
+<br>
+当时大众球迷对于邓肯的评价基本上来源于1999年季后赛期间奥尼尔给出的外号（后来成为邓肯最著名的官方外号）——<b>大基本原理</b>。就是说邓肯打球的基本功相当扎实，扎实到什么程度呢？就连已经入行NBA多年的奥尼尔面对失败也不得不服。
+事情的转变来自2003年邓肯以双MVP的荣誉单核带队夺冠，这时候有一位德高望重的前辈给出了更加惊人的评价：比尔-拉塞尔说邓肯称得上是<b>历史第一PF</b>！球迷们这才恍然意识到，邓肯不仅仅是打球的基本功相当扎实，而且兑现成统治力也相当惊人，可以与奥尼尔做到过的等量齐观！于是邓肯<b>历史第一大前</b>的评价开始在球迷之间不胫而走，但当时的认可度尚未上升到大众球迷的高度——毕竟邓肯甩开了拉希德-华莱士，甩开了克里斯-韦伯，至于诺维茨基那就更不用提了；但并没有甩开凯文-加内特，尤其一年后加内特生涯第一次带队夺得常规赛西部第一、生涯第一次在MVP评选上击败邓肯之后，大众球迷之中认为加内特有希望追上邓肯的大有人在。
+这样的情形维持了两年，这时候也有美国大霉体站出来正式提起这个话题了：ESPN和FOX分别在2005年季后赛期间和休赛季对历史伟大的PF进行排名，共同的结果都显示邓肯是历史第一PF。只不过除邓肯排名第一之外的排名又有很大的差异（<b>邓一其随</b>的态势第一次在大霉体的评选上出现），具体如下：
+<figure><img src="https://pic2.zhimg.com/50/v2-e5e00be3aa351c3afa18e270d404deef_b.jpg" data-rawwidth="610" data-rawheight="378" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-53268ebb14f23f06a2d2f87ce6971265_b.jpg" class="origin_image zh-lightbox-thumb" width="610" data-original="https://pic2.zhimg.com/50/v2-e5e00be3aa351c3afa18e270d404deef_r.jpg"><figcaption>2005年美国大霉体对NBA历史PF的排名</figcaption></figure><b>其中ESPN的那一次评选在美国的影响力更深远，被认定是截止到当时，对NBA历史PF的权威排名。当时的EPSN可不是现在的ESPN，题主完全可以以此为据，判断当时的诺维茨基、加内特、邓肯是怎么被业内评价PF的历史地位的。</b>
+当时负责ESPN NBA这块的旗下也确实是有人才。参与评选的11位专家包括<b>格雷格-安东尼</b>（打过1999~2000连续两年出战西决的开拓者后卫，2002年退役后旋即加入ESPN和NBC/ABC）这样的前NBA球员，<b>约翰-霍林格</b>（供职于ESPN期间最有影响力的是发明并修正了球员效率值PER，在2012年起离开ESPN管理自己的网站，并且担任灰熊的篮球运营副总裁）这样具有影响力的数据专家，<b>杰克-拉姆齐</b>这样见多识广的老教练（70年代在其治下的开拓者逐渐成长为独霸一方的顶级强队，1977年夺得队史唯一一次总冠军，由此取得NBA教练界的江湖地位；退休后在解说界人称活词典，不管什么专业问题都能回答得让外行的球迷们都听得懂的地步，2014年去世），<b>马克-斯特恩</b>这样的名记（去年起离开ESPN，供职于纽约时报）。
+另外，与FOX的排名类似的是，ESPN的排名事实上也不止有十个，其实获得选票的一共有27人。只是这里篇幅有限，于是只取了可以看得到具体分值的前十。全部的排名有兴趣者可以参见虎扑的坟贴：
+<a data-draft-node="block" data-draft-type="link-card" href="//link.zhihu.com/?target=https%3A//bbs.hupu.com/36595.html" class=" wrap external" target="_blank" rel="nofollow noreferrer">：邓肯位列史上最强大前锋第一</a>从0405赛季开始，高位挡拆战术成为00年代强队共有的招牌战术。马刺紧随时代潮流而逐渐地改变了“邓肯体系”，把邓肯从低位战术轴心变成高位战术核心，使其丧失一部分战术发起权，分给了马努和帕克——大众球迷对此也越发了解，虽然依旧认为邓肯是历史第一PF的历史地位不变，但是也认为邓肯的角色从台前呼风唤雨的主角变为幕后支持马努和帕克的精神领袖。于是，一个让10年代的我们曾经相当熟悉的论调开始渐渐占据主流：<b>邓肯老了，马刺老了。</b>这成为邓肯在00年代的大众球迷眼里最后的评价。
+<br>
+另外有一点值得一提：<b>仅仅计算00年代，邓肯取得的双一阵次数就已经冠绝所有PF了。</b>
+依次排列：
+1.邓肯6次（9900赛季~0203赛季，0405赛季，0607赛季）。
+2.加内特4次（9900赛季，0203赛季~0304赛季，0708赛季）。
+<br>
+其余PF均只取得单赛季一阵，但没有在00年代取得单赛季一防：
+韦伯1次（0001赛季），诺维茨基4次（0405赛季~0607赛季，0809赛季），斯塔德迈尔1次（0607赛季）。
+<hr><h2><b>IV.其他</b></h2>如今，题主提到的三人里的两人业已退役，大众球迷对于诺维茨基的看法评价也基本盖棺定论。很明显，三人现在被如何看待评价又与00年代结束时被如何看待评价有过变化——这些，只要在10年代经历过的球迷，应该都知道。
+我觉得以上内容已经可以回答21世纪初的内线生态状况——一言以蔽之：<b>百花齐放，这是PF这个位置留给大众球迷最好的时代。</b>
+<b>新世纪初四大PF</b>我在上面已经提过，分别是邓肯、加内特、韦伯、拉希德-华莱士。我也说过，因为排这个的时候大约在2000年~2001年期间，这时候诺维茨基尚未崛起，于是没有把他列入其中。
+这5位我都直接或间接地在以上内容提到过了，其余的呢？
+<b>阿玛雷-斯塔德迈尔</b>：太阳MSN成员之一。0607赛季入选一阵，实力初步得到霉体的认可。大众球迷给00年代的他最大的评价是很标签化的——爆发力超群，进攻最主要的手段就是能扣（曾经在一场常规赛中扣了5次）。朝廷台解说于嘉的力劈华山梗现在应该都知道了吧？
+当年我是放学回家坐着老板椅、霸着TV遥控器盯着上体台（五星体育前身）、朝廷台这么来回切换等十佳球看的。对，就这种球：
+<figure><img src="https://pic4.zhimg.com/50/v2-3669b848ec78b85cc5b8b83f6275f751_b.jpg" data-rawwidth="400" data-rawheight="305" data-size="normal" class="content_image" width="400"><figcaption>“来看十佳球第X位，风之子纳什穿针引线，小霸王接球力劈华山”</figcaption></figure>其实不然，事实上<b>作为面筐进攻大师的小斯是很会选择合适的进攻终结手段的</b>。
+他的挡拆内切作为招牌技自不必说，但其实在2008年起他接纳什的球之后可以多运几步了，而不是先前挡拆后不运球直接就攻筐；
+早在0405赛季，他的中投就已经有了不错的功底，从原来的【就那样吧】的水平提升到了神经刀，只要他手感好就能爆砍30+、40+，极大地丰富了太阳的挡拆战术；
+他的背打技术虽然相对来说大器晚成，但其实从2005年起他就一直有练，2012年师从大梦之后背打更是突飞猛进（当季是没有立竿见影，但是久了之后就发现师从大梦确实让小斯的背打完善不少）。
+<b>小斯进攻端的完美形态是在0910赛季，以及他在尼克斯单核的1011赛季前半段</b>。肘区面筐单打、弧顶以及罚球内外圈挡拆接球打、日渐增长的背打，成功率都相当高。太阳时期纳什的角色头一次被削弱到后来尼克斯菲尔顿的那种中转式的组织进攻，而不再是单纯的发起。
+<figure><img src="https://pic3.zhimg.com/50/v2-36d6a30887613f6474d556de89fa5142_b.jpg" data-rawwidth="300" data-rawheight="168" data-size="normal" class="content_image" width="300"><figcaption>小斯低位面筐突破</figcaption></figure><figure><img src="https://pic2.zhimg.com/50/v2-dc15d7d000733c9ed7d8ac19da19184a_b.jpg" data-rawwidth="268" data-rawheight="150" data-size="normal" class="content_image" width="268"><figcaption>小斯右侧肘区持球单打乔丹-希尔</figcaption></figure><figure><img src="https://pic2.zhimg.com/50/v2-042b7bad254036ac0bdc4879c10e9728_b.jpg" data-rawwidth="350" data-rawheight="196" data-size="normal" class="content_image" width="350"><figcaption>小斯低位背打海耶斯</figcaption></figure><figure><img src="https://pic1.zhimg.com/50/v2-4b025608481a72cf5c17a4bd37e2b348_b.jpg" data-rawwidth="326" data-rawheight="182" data-size="normal" class="content_image" width="326"><figcaption>小斯低位背筐转面筐，试探步接跑勾</figcaption></figure>另外，都知道叫他小斯，但明明他是个大个子，这是怎么回事？
+我来完整解释一下。这是源于在他之前，中文世界里已经有了一个给球迷留下深刻印象的【斯塔德迈尔】了——达蒙-斯塔德迈尔（90年代曾经让后三连冠的公牛在防守他时叫苦不迭，又在新军猛龙拿下ROY，即年度最佳新秀），于是为了顺口，也为了区分（小斯也拿下了ROY），把后入行NBA的阿玛雷-斯塔德迈尔称作小斯。
+PS 有一点可能很少有人意识到：虽然都被译作【斯塔德迈尔】，但其实两人的英文原名并不相同——前者的英文原名是Damon <b>Stoudamire</b>，而后者的英文原名是Amar'e <b>Stoudemire</b>。
+<br>
+<b>小奥尼尔</b>：本名杰梅因-奥尼尔，巅峰期在步行者度过，其实官方叫法里并没有叫做小奥尼尔，而是J.O，但在中文世界里J.O给人的印象不容易深起来，而一叫奥尼尔都容易联想到沙奎-奥尼尔，又因为年龄上他比奥尼尔小得多，于是约定俗成地叫做小奥尼尔，简称小奥；很明显，他和奥尼尔既没有血缘关系，也没有亲族关系。
+在步行者期间，基本上完整经历过新世纪头十年步行者一切重要事件（比如2004年东决与活塞的六场大战、同年在后一季参与奥本山宫殿混战并受到牵连，先是禁赛25场后被缩减至15场）的球员。他虽然整个生涯来看，主打C的时间远远长过主打PF的时间，但他那几年巅峰期却都在主打PF，于是也把他算进PF里了。
+奥本山宫殿混战后小奥的禁赛令后来虽然被缩减，但他受到的影响仍然是显而易见的——此前连续三季入选年度最佳阵容（0102~0203赛季三阵，0304二阵）的小奥，自此之后再也没有入选。之所以我说是显而易见，就是考虑到曾经常年受到伤病困扰影响出勤的小奥，他的身体巅峰和技术巅峰是有明显交叉的；而且，0304赛季他还入围了MVP榜的第三，按照常理判断，接下来的赛季他只要平稳发挥，MVP榜前十甚至前五都可能是妥妥的，然而在0405赛季发生奥本山宫殿混战事件后，小奥甚至再也没有入围过MVP榜。
+<figure><img src="https://pic1.zhimg.com/50/v2-587e10029c18f368427477b0867255aa_b.jpg" data-rawwidth="279" data-rawheight="167" data-size="normal" class="content_image" width="279"><figcaption>巅峰小奥的进攻</figcaption></figure><figure><img src="https://pic4.zhimg.com/50/v2-4bb2a8c0ba7001ade5e8b3e6da3725ae_b.jpg" data-rawwidth="230" data-rawheight="137" data-size="normal" class="content_image" width="230"><figcaption>巅峰小奥的进攻</figcaption></figure>巅峰小奥的背打以准确感知防守人位置、动作的假动作见长，比如晃肩、假转身；而且他在比较考验基本功的面筐、背筐之间来回切换也做得自成一派。
+于是他在生涯后期曾经录制过内线进攻教学：
+<a data-draft-node="block" data-draft-type="link-card" href="//link.zhihu.com/?target=https%3A//www.92to.com/xinwen/2016/02-01/1140377.html" data-image="https://pic2.zhimg.com/v2-2b027c51cdab099903d105c4e2b6b3bd_180x120.jpg" data-image-width="380" data-image-height="251" class=" wrap external" target="_blank" rel="nofollow noreferrer">小奥尼尔顶级内线进攻教学-体育新闻-就爱阅读网</a>其中可以看到他是如何完整地完成一套近、中距离进攻。
+<br>
+<b>保罗-加索尔</b>：现在由于小加索尔也在NBA的关系，为了区别也常被称为【大加索尔】。最初在灰熊成长为全明星；后在2008年被交易到湖人，为湖人带来三年两冠，逐渐下滑（甚至在丹东尼执教期间被安排打第六人）；在2014年自由签约公牛，仍然保有全明星水准；在2016年自由签约马刺，效力至今。
+加索尔是被虐中一步步成长为联盟顶级PF的：
+低年级时曾经连续与现在效力的马刺“擦出火花”
+<figure><img src="https://pic2.zhimg.com/50/v2-ff20cf533e9439eee3ef0f1b30b3dcdb_b.jpg" data-rawwidth="320" data-rawheight="239" data-size="normal" class="content_image" width="320"><figcaption>新秀季时的大加索尔曾经被当季MVP邓肯虐哭，可能就此对邓肯留下心理阴影</figcaption></figure>不过要是就此认为大加是个软蛋，那就大错特错了：
+<figure><img src="https://pic1.zhimg.com/50/v2-1867e1a1ac4fa6865a016473a5287ba1_b.jpg" data-rawwidth="361" data-rawheight="227" data-size="normal" class="content_image" width="361"><figcaption>大加索尔突破上将隔扣双塔</figcaption></figure><figure><img src="https://pic2.zhimg.com/50/v2-9c130f4fecf617134a9e571a2a0ed1b1_b.jpg" data-rawwidth="361" data-rawheight="227" data-size="normal" class="content_image" width="361"><figcaption>大加索尔突破上将隔扣双塔</figcaption></figure><figure><img src="https://pic3.zhimg.com/50/v2-ca501a2a980227244b39f39b6daa6082_b.jpg" data-rawwidth="361" data-rawheight="227" data-size="normal" class="content_image" width="361"><figcaption>大加索尔突破上将隔扣双塔</figcaption></figure><br>
+所以，大加的球场表现就是<b>软起来可以很软，硬起来可以很硬</b>——无论试图隔开哪一部分只谈另一部分，都是不合适的。这样的球场表现贯穿他的整个生涯，不止是在他上升期~巅峰期的00年代。
+当然，作为国际内线的代表人物之一，巅峰大加的单打在进攻万花筒的基础上也颇具特色。
+比如，他很喜欢做一些面筐与背筐来回切换的步伐，而这些步伐都是很考验基本功的：
+<figure><img src="https://pic4.zhimg.com/50/v2-3c71215c374bb65d956e44a2aa9fbc29_b.jpg" data-rawwidth="326" data-rawheight="181" data-size="normal" class="content_image" width="326"><figcaption>大加肘区面筐突破邓肯跑勾</figcaption></figure><figure><img src="https://pic4.zhimg.com/50/v2-82ec67660ac7f486e48a572476c052a5_b.jpg" data-rawwidth="326" data-rawheight="182" data-size="normal" class="content_image" width="326"><figcaption>背筐不行？三威胁转面筐。面筐突不了？再转背筐。防守人像一堵墙似的？那就靠灵活！</figcaption></figure><b>跑勾</b>这一当代内线流行的技术动作，大加可称得上是一代大师——他总能找到角度、找到缝隙，再把球用柔和的手感勾进篮筐。即使现在巅峰已过，他的普通勾手命中率已经下滑很多，但他的跑勾仍然有一定威胁。
+<figure><img src="https://pic1.zhimg.com/50/v2-1e51eeb3b0d3b87ca6b027a3ecb499b3_b.jpg" data-rawwidth="326" data-rawheight="181" data-size="normal" class="content_image" width="326"><figcaption>大加得心应手的跑勾</figcaption></figure>最后要谈到的是大加的内线脚步。大加的动作兼具快速和细腻两个明显特点，外加一双长臂，可以说是他在NBA最有威胁的招了。这是他在2017年已经在马刺时展现的内线脚步：
+<figure><img src="https://pic2.zhimg.com/50/v2-d8bf140fed0927b72d91e2930f0e2b0d_b.jpg" data-rawwidth="503" data-rawheight="304" data-size="normal" class="origin_image zh-lightbox-thumb" width="503" data-original="https://pic2.zhimg.com/50/v2-d8bf140fed0927b72d91e2930f0e2b0d_r.jpg"><figcaption>大加内线脚步接底线上篮（拥有长臂才能完成的操作）</figcaption></figure> 总而言之，00年代的内线生态状况较好地保留和延续了80年代以来的百花齐放状态。C的质量是逐渐下滑了，但PF反而进入历史上最丰富、最优秀的格局中。
+<b>邓肯</b>、<b>加内特</b>、<b>诺维茨基</b>先后荣获过MVP这样的大荣誉；
+除此之外的<b>克里斯-韦伯</b>、<b>阿玛雷-斯塔德迈尔</b>先后入选过赛季一阵；
+除此之外的<b>小奥尼尔</b>入选过赛季二阵；
+除此之外的<b>大加索尔</b>入选过赛季三阵（后在10年代两次入选过赛季二阵）；
+除此之外还有在那个时代一次年度最佳阵容都没有入选过的<b>拉希德-华莱士</b>、<b>扎克-兰多夫</b>（后在1011赛季入选赛季三阵）。
+可怕在于：<b>在巅峰期，他们每一人都有可能在一场比赛中打爆任意的另一人。</b>
+<br>
+差点忘了我上面提过的一个话题了：
+关于【历代PF中革新的一代】的看法是随着阿尔德里奇、勒夫等相比邓肯、加内特、韦伯、诺维茨基等新一代PF代表们崛起之后才开始出现的看法。
+历史PF大致上可以这么划分：
+巅峰在50年代的老鹰老大<b>鲍勃-佩蒂特</b>，为NBA里PF这个位置的开山鼻祖。
+什么叫做PF？
+简单来说，佩蒂特怎么打球，PF就是怎么样的，毕竟他是NBA历史上第一位常规赛MVP
+——进攻端比起C更少的占用球权，可以靠前板过活；
+持球进攻时，拥有精湛全面的中距离进攻，能投能突能造犯规。
+防守端比起把守篮下的C，活动范围更广，可护筐可扫荡；
+必要时可以使出一手强硬的犯规来阻断对手的进攻。
+<br>
+佩蒂特之后，70年代PF迎来代表人物：<b>埃尔文-海耶斯</b>。
+埃尔文-海耶斯告诉大众球迷，原来PF在进攻端也可以像张伯伦那样统治一支球队的球权、出手权，甚至成为球权黑洞——球只要到他手上就别想传回来了。
+进入80年代，<b>凯文-麦克海尔</b>很好地继承发扬了埃尔文-海耶斯【球只要到他手上就别想传回来了】的作风；而<b>巴克-威廉姆斯</b>也很好地继承发扬了标准PF在防守端【必要时可以使出一手强硬的犯规来阻断对手的进攻】的作风。PF似乎成为再也没有发生变革的位置。
+<br>
+然而没过几年，<b>查尔斯-巴克利</b>进入联盟，他迅速成为矮个PF有史以来最好的代表人物——【巴克利盖帽，巴克利拿下了篮板，巴克利不给PG自己持球推进，巴克利三大步到禁区，巴克利暴扣！篮板震的嗡嗡响】这就是巴克利在生涯前期的球风——大众球迷：原来PF也可以和J博士那样在攻防转换中虎虎生威。
+又没过几年，<b>卡尔-马龙</b>入行NBA，他的身体让NBA圈内评论家们惊呼，这是有史以来身体条件最出色的PF！马龙达到了PF这个位置的球员的身体条件所能达到的极限！
+<br>
+步入90年代，1993年，密歇根五虎震惊NCAA，其中最有天赋的<b>克里斯-韦伯</b>成为NBA状元秀。在选秀之初就有评论家预测，他的到来能革新PF这个位置——出色的身体天赋，精湛而又全面的进攻技术，作为一年级新秀就很不错的篮板意识，谦谦君子一般的相貌……
+结果，谁也想不到，这只是一个开始——
+1995年，北卡高材生<b>拉希德-华莱士</b>以首轮第四入行NBA；
+仅仅一个顺位之后，高中生才俊<b>凯文-加内特</b>以首轮第五这个当时高中生难以企及的顺位入行NBA；
+两年后的1997年，来自维克森林大学的四年级生<b>蒂姆-邓肯</b>众望所归地成为NBA状元秀；
+1998年，雄鹿以首轮第九的高顺位选中了德国人施拉姆夫的同胞<b>德克-诺维茨基</b>后，交易给了小牛。
+新世纪随着这代人的成熟，大众球迷发现他们打得净是他们没见过的PF风格：
+拉希德-华莱士拥有注册商标式的直臂投篮；
+韦伯一手胯下运球，一手背传玩的连一些后卫们都羞不可当；
+加内特的全面更是神乎其神，既是分板助【我全都要】的数据全面，又是攻防两端当爹又当妈的实战全面；
+邓肯的中近距离攻防让他得到【大基本原理】的美名，一度连奥尼尔都甘拜下风，00年代成为招牌技的45°打板跳投以及生涯中期开始大量出现的一手快准狠的跨场传，令比尔-拉塞尔都感到恍如隔世；
+诺维茨基的无球跑位接球投、持球远投、空切，简直活脱脱一个七尺SG。
+<br>
+于是等到阿尔德里奇依靠直臂投篮，勒夫依靠跑位接球投、跨场传崛起之后，大众球迷回头一看，尤其是其中看过几代PF打球的评论家一拉时间线——这才发现原来先前看到的一代PF，完全称得上是【历史PF中革新的一代】。
+<br>
+以上
+
+==================================================
