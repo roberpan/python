@@ -14,3 +14,5 @@ df = pd.DataFrame(np.arange(25).reshape(5,5),
                        index=['Joe', 'Steve', 'Wes', 'Jim', 'Travis'])
 
 print(df)
+
+print(df.head())
