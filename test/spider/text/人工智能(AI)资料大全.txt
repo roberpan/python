@@ -1,0 +1,75 @@
+
+
+http://www.techug.com/awesome-artificial-intelligence
+
+这里收集的是关于人工智能(AI)的教程、书籍、视频演讲和论文。
+
+欢迎提供更多的信息。
+
+在线教程
+
+麻省理工学院人工智能视频教程 –
+ 麻省理工人工智能课程
+人工智能入门 – 人工智能基础学习。Peter Norvig举办的课程
+EdX
+ 人工智能 – 此课程讲授人工智能计算机系统设计的基本概念和技术。
+人工智能中的计划 – 计划是人工智能系统的基础部分之一。在这个课程中，你将会学习到让机器人执行一系列动作所需要的基本算法。
+机器人人工智能 –
+ 这个课程将会教授你实现人工智能的基本方法，包括：概率推算，计划和搜索，本地化，跟踪和控制，全部都是围绕有关机器人设计。
+机器学习 – 有指导和无指导情况下的基本机器学习算法
+机器学习中的神经网络 – 智能神经网络上的算法和实践经验
+斯坦福统计学习 -Introductory
+ course on machine learning focusing on: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and
+ generalized additive models; tree-based methods, random forests and boosting; support-vector machines.
+人工智能书籍
+
+人工智能:一种现代的方法 Stuart
+ Russell & Peter Norvig
+The Cambridge
+ Handbook of Artificial Intelligence – 适合非专业人士阅读，本书覆盖了基本原则，主要理论和主要研究领域，还有相关主题，比如人造生命。
+The Emotion Machine: Commonsense Thinking,
+ Artificial Intelligence, and the Future of the Human Mind – 在这部让人脑洞大开的图书中，科技先锋继续了他极具创造力的研究，给我们呈现了一个全新的不可思议的人类大脑运转模式。
+Artificial
+ Intelligence: A New Synthesis – 从粒子反应入手，Nilsson逐渐向我们展示了人工智能中最重要和最新的概念。
+编程
+
+Prolog
+ Programming for Artificial Intelligence – 这本针对Prolog和人工智能的畅销书主要讲述了使用Proglog语言编程解决有趣的人工智能问题的基本机制。
+AI Algorithms,
+ Data Structures and Idioms in Prolog, Lisp and Java – PDF
+ here
+人工智能原理
+
+Superintelligence –
+ 书中问：如果机器在智能上超越人类会怎样。非常好的一本书。
+Our Final
+ Invention: Artificial Intelligence and the End of the Human Era – Our Final Invention explores the perils of the heedless pursuit of advanced AI. Until now, human intelligence has had no rival. Can we coexist with beings whose intelligence dwarfs our own?
+ And will they allow us to?
+How
+ to Create a Mind: The Secret of Human Thought Revealed – Ray Kurzweil——谷歌公司的技术主管——向我们展示了如何用反向工程来了解大脑是如何工作的，然后运用这些知识来创造人工智能机器。
+免费读物
+
+Foundations of computational agents – 这部书由剑桥大学出版社于2010年出版。
+The Quest for Artificial Intelligence –
+ 这本书回顾了人工智能的历史，从早期的18世纪先人的梦想，到如今众多成功的人工智能技术。
+程序代码
+
+AIMA Lisp Source Code – “Artificial
+ Intelligence A Modern Approach”一书中的Common Lisp源代码。
+视频/演讲
+
+The Unreasonable Effectiveness of Deep Learning –
+ Dr. Yann LeCun——负责Facebook人工智能研究的主管——他给我们深入讲解了人工智能神经网络和他们对机器学习的应用。
+机器学习
+
+Deep
+ Learning. Methods and Applications 来自微软研究室的免费读物。
+Neural Networks and Deep Learning – Neural
+ networks and deep learning currently provide the best solutions to many problems in image recognition, speech recognition, and natural language processing. This book will teach you the core concepts behind neural networks and deep learning
+Machine
+ Learning: A Probabilistic Perspective – 这本小书对机器学习给出了详尽的介绍
+Deep Learning – Yoshua Bengio, Ian Goodfellow
+ and Aaron Courville put together this currently free (and draft version) book on deep learning. The book is kept up-to-date and covers a wide range of topics in depth (up to and including sequence-to-sequence learning).
+其它
+
+Open Congition Project – 我们正在努力开发一款具有思考能力的机器。 
