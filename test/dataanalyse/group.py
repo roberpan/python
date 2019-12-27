@@ -1,3 +1,6 @@
+"""
+本程序对python数据聚合的常用方法进行实现
+"""
 import pandas as pd
 import numpy as np
 
@@ -108,7 +111,7 @@ male    22.0   21000
 '''
 
 def f(ser,num=2):
-    return ser.nlargest(num).tolist()
+    return ser.nlargest(num).tolist()   #nlargest返回Series中最大的2个值
 print(gp1['income'].apply(f))
 '''
 female    [8000, 7000]
