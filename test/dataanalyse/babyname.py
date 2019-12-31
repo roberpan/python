@@ -1,9 +1,7 @@
-"""
-本程序实现对1880-2010年间全美婴儿姓名的统计
-"""
+# -*- coding: utf-8 -*-
+#本程序实现对1880-2010年间全美婴儿姓名的统计
+
 import pandas as pd
-import numpy as np
-import seaborn as sns
 import matplotlib.pyplot as plt
 
 pd.options.display.max_rows=10
@@ -11,7 +9,7 @@ pd.options.display.max_rows=10
 '''
 读取yob1880.txt文件，按照sex类型进行分组后，统计每个分组的总人数，存入count_by_sex中
 '''
-file=pd.read_csv('babynames/yob1880.txt',names=['name','sex','births'])
+file=pd.read_csv('data/babynames/yob1880.txt', names=['name', 'sex', 'births'])
 count_by_sex=file.groupby('sex')['births'].sum()
 
 '''

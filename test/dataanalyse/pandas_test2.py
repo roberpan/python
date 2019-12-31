@@ -42,4 +42,4 @@ def norm_total(group):
 
 results=count_subset.groupby('tz').apply(norm_total)
 sns.barplot(x='normed_total',y='tz',hue='os',data=results)
-plt.show()
+print(results)
