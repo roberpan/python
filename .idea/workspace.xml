@@ -1,152 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="129b9d88-d797-403c-9f83-6a5621397913" name="Default Changelist" comment="add groupby examples">
-      <change afterPath="$PROJECT_DIR$/test/dataanalyse/data/example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dataanalyse/houseprice/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dataanalyse/houseprice/data/anjuke.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dataanalyse/houseprice/data/lianjia.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dataanalyse/houseprice/houseprice.py" afterDir="false" />
+    <list default="true" id="129b9d88-d797-403c-9f83-6a5621397913" name="Default Changelist" comment="commit houseprice package">
+      <change afterPath="$PROJECT_DIR$/test/dataanalyse/houseprice/barplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/dataanalyse/houseprice/distplot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babyname.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/babyname.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/NationalReadMe.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/NationalReadMe.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1880.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1880.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1881.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1881.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1882.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1882.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1883.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1883.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1884.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1884.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1885.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1885.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1886.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1886.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1887.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1887.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1888.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1888.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1889.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1889.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1890.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1890.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1891.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1891.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1892.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1892.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1893.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1893.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1894.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1894.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1895.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1895.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1896.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1896.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1897.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1897.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1898.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1898.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1899.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1899.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1900.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1900.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1901.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1901.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1902.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1902.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1903.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1903.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1904.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1904.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1905.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1905.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1906.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1906.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1907.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1907.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1908.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1908.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1909.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1909.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1910.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1910.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1911.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1911.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1912.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1912.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1913.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1913.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1914.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1914.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1915.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1915.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1916.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1916.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1917.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1917.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1918.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1918.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1919.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1919.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1920.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1920.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1921.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1921.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1922.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1922.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1923.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1923.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1924.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1924.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1925.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1925.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1926.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1926.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1927.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1927.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1928.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1928.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1929.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1929.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1930.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1930.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1931.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1931.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1932.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1932.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1933.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1933.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1934.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1934.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1935.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1935.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1936.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1936.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1937.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1937.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1938.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1938.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1939.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1939.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1940.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1940.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1941.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1941.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1942.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1942.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1943.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1943.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1944.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1944.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1945.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1945.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1946.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1946.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1947.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1947.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1948.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1948.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1949.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1949.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1950.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1950.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1951.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1951.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1952.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1952.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1953.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1953.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1954.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1954.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1955.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1955.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1956.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1956.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1957.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1957.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1958.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1958.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1959.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1959.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1960.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1960.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1961.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1961.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1962.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1962.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1963.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1963.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1964.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1964.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1965.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1965.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1966.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1966.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1967.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1967.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1968.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1968.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1969.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1969.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1970.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1970.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1971.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1971.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1972.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1972.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1973.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1973.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1974.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1974.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1975.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1975.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1976.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1976.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1977.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1977.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1978.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1978.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1979.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1979.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1980.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1980.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1981.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1981.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1982.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1982.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1983.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1983.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1984.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1984.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1985.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1985.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1986.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1986.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1987.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1987.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1988.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1988.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1989.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1989.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1990.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1990.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1991.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1991.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1992.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1992.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1993.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1993.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1994.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1994.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1995.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1995.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1996.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1996.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1997.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1997.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1998.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1998.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob1999.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob1999.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob2000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob2000.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob2001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob2001.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob2002.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob2002.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob2003.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob2003.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob2004.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob2004.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob2005.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob2005.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob2006.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob2006.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob2007.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob2007.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob2008.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob2008.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob2009.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob2009.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babynames/yob2010.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/babynames/yob2010.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/groupby_test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/tips.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/movies/README" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/movies/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/movies/movies.dat" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/movies/movies.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/movies/ratings.dat" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/movies/ratings.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/movies/users.dat" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/data/movies/users.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/pandas_test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/pandas_test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/dataanalyse/houseprice/houseprice.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,28 +56,7 @@
       <recent name="D:\work\Python\test\wordcloudtest" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.houseprice (1)">
-    <configuration name="houseprice (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/dataanalyse/houseprice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/dataanalyse/houseprice/houseprice.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.plot2">
     <configuration name="houseprice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -261,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tips" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="plot1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -269,11 +107,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/dataanalyse" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/dataanalyse/houseprice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\work\Python\test\dataanalyse\tips.py" />
+      <option name="SCRIPT_NAME" value="D:\work\Python\test\dataanalyse\houseprice\plot1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/dataanalyse/houseprice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\work\Python\test\dataanalyse\houseprice\plot2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,17 +165,17 @@
     <list>
       <item itemvalue="Python.usda" />
       <item itemvalue="Python.houseprice" />
-      <item itemvalue="Python.tips" />
       <item itemvalue="Python.pandas_test2" />
-      <item itemvalue="Python.houseprice (1)" />
+      <item itemvalue="Python.plot1" />
+      <item itemvalue="Python.plot2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.houseprice (1)" />
+        <item itemvalue="Python.plot2" />
+        <item itemvalue="Python.plot1" />
         <item itemvalue="Python.pandas_test2" />
         <item itemvalue="Python.houseprice" />
         <item itemvalue="Python.usda" />
-        <item itemvalue="Python.tips" />
       </list>
     </recent_temporary>
   </component>
@@ -392,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577410724738</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit houseprice package">
+      <created>1577778244284</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1577778244284</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -437,41 +303,42 @@
     <MESSAGE value="test" />
     <MESSAGE value="delete pandas_test2.py" />
     <MESSAGE value="add groupby examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="add groupby examples" />
+    <MESSAGE value="commit houseprice package" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit houseprice package" />
   </component>
   <component name="WindowStateProjectService">
     <state x="232" y="153" key="#Inspections" timestamp="1575942925337">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="232" y="153" key="#Inspections/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1575942925337" />
-    <state x="291" y="88" key="CommitChangelistDialog2" timestamp="1577416873199">
+    <state x="369" y="119" key="CommitChangelistDialog2" timestamp="1578045346421">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="291" y="88" key="CommitChangelistDialog2/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1577416873199" />
-    <state width="1259" height="286" key="GridCell.Tab.0.bottom" timestamp="1577758935885">
+    <state x="369" y="119" key="CommitChangelistDialog2/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578045346421" />
+    <state width="1259" height="286" key="GridCell.Tab.0.bottom" timestamp="1578045311221">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="286" key="GridCell.Tab.0.bottom/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1577758935885" />
-    <state width="1259" height="286" key="GridCell.Tab.0.center" timestamp="1577758935884">
+    <state width="1259" height="286" key="GridCell.Tab.0.bottom/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578045311221" />
+    <state width="1259" height="286" key="GridCell.Tab.0.center" timestamp="1578045311221">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="286" key="GridCell.Tab.0.center/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1577758935884" />
-    <state width="1259" height="286" key="GridCell.Tab.0.left" timestamp="1577758935884">
+    <state width="1259" height="286" key="GridCell.Tab.0.center/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578045311221" />
+    <state width="1259" height="286" key="GridCell.Tab.0.left" timestamp="1578045311221">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="286" key="GridCell.Tab.0.left/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1577758935884" />
-    <state width="1259" height="286" key="GridCell.Tab.0.right" timestamp="1577758935884">
+    <state width="1259" height="286" key="GridCell.Tab.0.left/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578045311221" />
+    <state width="1259" height="286" key="GridCell.Tab.0.right" timestamp="1578045311221">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="286" key="GridCell.Tab.0.right/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1577758935884" />
+    <state width="1259" height="286" key="GridCell.Tab.0.right/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578045311221" />
     <state x="143" y="137" key="SettingsEditor" timestamp="1577410548740">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="143" y="137" key="SettingsEditor/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1577410548740" />
-    <state x="232" y="228" key="Vcs.Push.Dialog.v2" timestamp="1577410738155">
+    <state x="232" y="228" key="Vcs.Push.Dialog.v2" timestamp="1577778268930">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="232" y="228" key="Vcs.Push.Dialog.v2/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1577410738155" />
+    <state x="232" y="228" key="Vcs.Push.Dialog.v2/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1577778268930" />
     <state x="303" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1577431043243">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
