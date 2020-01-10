@@ -3,6 +3,7 @@
 from bs4 import BeautifulSoup
 import requests
 import re
+
 def downpic(url,filename):
     picurl = 'http://desk.zol.com.cn'+url
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'}
@@ -14,7 +15,7 @@ def downpic(url,filename):
     src = img.attrs['src']
     response = requests.get(url=src, headers=headers)
     contents = response.content
-    name = re.sub("\D", "", picurl)
+    name = re.sub("\D", "", picurl) #正则法提取数字
     with open('image/%s/%s.jpg'%(filename,name), 'wb') as f:
         f.write(contents)
     if str(nexturl)!='javascript:;':

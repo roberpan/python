@@ -11,5 +11,5 @@ with open('score.txt') as file:
             score+=int(sep)
         result="{:s}的总分是{:d}分\n".format(seps[0],score)
         results.append(result)
-with open('result.txt','w') as file:
+with open('result.txt', 'w') as file:
     file.writelines(results)

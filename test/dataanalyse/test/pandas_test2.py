@@ -5,7 +5,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-path= 'data/example.txt'
+path= '../data/example.txt'
 records=[json.loads(line) for line in open(path)]
 time_zones=[rec['tz'] for rec in records if 'tz' in rec]
 

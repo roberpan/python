@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*
 # 本程序主要用pandas对数据进行基本统计分析#
-import dbConnect
+from test import dbConnect
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates

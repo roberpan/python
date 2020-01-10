@@ -32,7 +32,7 @@ key1
 a    4
 b    1
 '''
-content=pd.read_csv('data/tips.csv')
+content=pd.read_csv('../data/tips.csv')
 content['tip_pct']=content['tip']/content['total_bill']
 grouped=content.groupby(['day', 'smoker'])
 grouped_pct=grouped['tip_pct']
@@ -251,7 +251,7 @@ b    5.5
 '''
 以下实现美股四只股票与标准普尔指数的相关性计算
 '''
-close_px = pd.read_csv('data/stock_px_2.csv', parse_dates=True,
+close_px = pd.read_csv('../data/stock_px_2.csv', parse_dates=True,
                        index_col=0)
 spx_corr=lambda c:c.corrwith(c['SPX'])  #corrwith()实现与c['SPX']相关性计算
 rets=close_px.pct_change().dropna()

@@ -1,11 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="129b9d88-d797-403c-9f83-6a5621397913" name="Default Changelist" comment="commit houseprice package">
-      <change afterPath="$PROJECT_DIR$/test/dataanalyse/houseprice/barplot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dataanalyse/houseprice/distplot.py" afterDir="false" />
+    <list default="true" id="129b9d88-d797-403c-9f83-6a5621397913" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/spider/house/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/spider/house/gardendata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/spider/house/gardeninfo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/spider/house/houseinfo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/spider/house/lianjiadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/spider/house/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataanalyse/houseprice/houseprice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/caidianqiu.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/caidianqiu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/dataanalyse/babyname.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/test/babyname.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/dataanalyse/dbConnect.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/test/dbConnect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/dataanalyse/fdic_failed_bank_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/test/fdic_failed_bank_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/dataanalyse/group.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/test/group.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/dataanalyse/group_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/test/group_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/dataanalyse/houseprice/plot2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/houseprice/plot2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/dataanalyse/moviedata_analyse.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/test/moviedata_analyse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/dataanalyse/pandas_test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/test/pandas_test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/dataanalyse/pandas_test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/test/pandas_test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/dataanalyse/plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/test/plot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/dataanalyse/tips.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/test/tips.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/dataanalyse/yinghua.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataanalyse/test/yinghua.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/guess_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/guess_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/image.png" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/invert.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/invert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/result.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/score.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/score.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/shaizi.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/shaizi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/spider/excise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/spider/excise1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tongjifenshu.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/tongjifenshu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tongjizifu.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/tongjizifu.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,19 +71,19 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\work\Python\test\dataanalyse" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\Python\test\dataanalyse\test" />
+      <recent name="D:\work\Python\test\test" />
       <recent name="D:\work\Python\test\dataanalyse\data" />
       <recent name="D:\work\Python\test\dataanalyse\example" />
       <recent name="D:\work\Python\test\spider\dataanalyse" />
-      <recent name="D:\work\Python\test\spider\stockcaculate" />
-      <recent name="D:\work\Python\test\wordcloudtest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\Python\test\dataanalyse" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.plot2">
-    <configuration name="houseprice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.gardendata">
+    <configuration name="gardendata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/dataanalyse/HousePrice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/spider/house" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/dataanalyse/HousePrice/houseprice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/spider/house/gardendata.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pandas_test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lianjiadata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/dataanalyse" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/spider/house" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/dataanalyse/pandas_test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/spider/house/lianjiadata.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plot1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/dataanalyse/houseprice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/spider/house" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\work\Python\test\dataanalyse\houseprice\plot1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/spider/house/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,62 +146,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plot2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/dataanalyse/houseprice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\work\Python\test\dataanalyse\houseprice\plot2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="usda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/dataanalyse" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/dataanalyse/usda.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Python.usda" />
-      <item itemvalue="Python.houseprice" />
-      <item itemvalue="Python.pandas_test2" />
-      <item itemvalue="Python.plot1" />
-      <item itemvalue="Python.plot2" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.plot2" />
-        <item itemvalue="Python.plot1" />
-        <item itemvalue="Python.pandas_test2" />
-        <item itemvalue="Python.houseprice" />
-        <item itemvalue="Python.usda" />
+        <item itemvalue="Python.gardendata" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.lianjiadata" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577778244284</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add plot1 and plot2">
+      <created>1578045408510</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1578045408510</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -304,45 +286,50 @@
     <MESSAGE value="delete pandas_test2.py" />
     <MESSAGE value="add groupby examples" />
     <MESSAGE value="commit houseprice package" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit houseprice package" />
+    <MESSAGE value="add plot1 and plot2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add plot1 and plot2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="232" y="153" key="#Inspections" timestamp="1575942925337">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="232" y="153" key="#Inspections/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1575942925337" />
-    <state x="369" y="119" key="CommitChangelistDialog2" timestamp="1578045346421">
+    <state x="94" y="150" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578377430177">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="369" y="119" key="CommitChangelistDialog2/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578045346421" />
-    <state width="1259" height="286" key="GridCell.Tab.0.bottom" timestamp="1578045311221">
+    <state x="94" y="150" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578377430177" />
+    <state x="369" y="119" key="CommitChangelistDialog2" timestamp="1578045402979">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="286" key="GridCell.Tab.0.bottom/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578045311221" />
-    <state width="1259" height="286" key="GridCell.Tab.0.center" timestamp="1578045311221">
+    <state x="369" y="119" key="CommitChangelistDialog2/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578045402979" />
+    <state width="1259" height="286" key="GridCell.Tab.0.bottom" timestamp="1578655266297">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="286" key="GridCell.Tab.0.center/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578045311221" />
-    <state width="1259" height="286" key="GridCell.Tab.0.left" timestamp="1578045311221">
+    <state width="1259" height="286" key="GridCell.Tab.0.bottom/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578655266297" />
+    <state width="1259" height="286" key="GridCell.Tab.0.center" timestamp="1578655266297">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="286" key="GridCell.Tab.0.left/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578045311221" />
-    <state width="1259" height="286" key="GridCell.Tab.0.right" timestamp="1578045311221">
+    <state width="1259" height="286" key="GridCell.Tab.0.center/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578655266297" />
+    <state width="1259" height="286" key="GridCell.Tab.0.left" timestamp="1578655266297">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="286" key="GridCell.Tab.0.right/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578045311221" />
-    <state x="143" y="137" key="SettingsEditor" timestamp="1577410548740">
+    <state width="1259" height="286" key="GridCell.Tab.0.left/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578655266297" />
+    <state width="1259" height="286" key="GridCell.Tab.0.right" timestamp="1578655266297">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="143" y="137" key="SettingsEditor/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1577410548740" />
-    <state x="232" y="228" key="Vcs.Push.Dialog.v2" timestamp="1577778268930">
+    <state width="1259" height="286" key="GridCell.Tab.0.right/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578655266297" />
+    <state x="143" y="137" key="SettingsEditor" timestamp="1578638748075">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="232" y="228" key="Vcs.Push.Dialog.v2/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1577778268930" />
-    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1577431043243">
+    <state x="143" y="137" key="SettingsEditor/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578638748075" />
+    <state x="232" y="228" key="Vcs.Push.Dialog.v2" timestamp="1578045413619">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1577431043243" />
+    <state x="232" y="228" key="Vcs.Push.Dialog.v2/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578045413619" />
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1578471826647">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578471826647" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
