@@ -5,7 +5,9 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 import re
+import time
 
+start=time.time()
 def get_urls(n):
     urllist=[]
     for i in range(n):
@@ -22,7 +24,7 @@ def get_info(url):
     infos = soup.find_all('div', {'class': 'info clear'})   #找到div标签的，class值为info clear的元素
     result = {}
     # 设置DataFrame的列名，为后续添加字典数据做准备，不设置列名，字典无法直接添加
-    df=pd.DataFrame(columns=('total_price','unit_price','roomtype','height','direction','decorate','area','age'
+    df=pd.DataFrame(columns=('id','total_price','unit_price','roomtype','height','direction','decorate','area','age'
                              ,'garden','district','id'))
     for info in infos:
         url=info.find('a').get('href')  #用get()方法获取<a>标签中的href属性，get方法可实现对标签中特定属性的获取
@@ -55,8 +57,10 @@ def write_data(urls):
         dflist.append(get_info(url))    #生成由DataFrame组成的列表
     result=pd.concat(dflist)    #用concat方法将列表中的DataFrame元素组合起来成为一个大DataFrame
     result=result.reset_index(drop=True)
-    result.to_csv('houseinfo.csv')  #将DataFrame数据写入CSV文件中
+    result.to_csv('content.csv')  #将DataFrame数据写入CSV文件中
 
 urllist=get_urls(100)
 write_data(urllist)
 print('success')
+end=time.time()
+print('time cost:',end-start)
