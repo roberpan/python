@@ -57,12 +57,6 @@ class TestSpider(scrapy.Spider):
         df = df.append(item, ignore_index=True)
         df.to_csv('content1.csv', mode='a', header=False)
 
-
-
-
-
-
-
 #以下代码实现对链家主页3000条数据抓取
 '''def parse(self, response):
         urls=[]
